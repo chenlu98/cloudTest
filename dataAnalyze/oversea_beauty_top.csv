@@ -1,0 +1,2002 @@
+﻿"os","device_type","device_score","device_cpu"," Native视频发流切片时长 "
+"iOS","iPhone14,5",94,,6308342.033333
+"iOS","iPhone15,4",96,,5714824.683333
+"iOS","iPhone12,1",90,,5209611.316667
+"iOS","iPhone14,7",94,,4530614.8
+"iOS","iPhone17,3",100,,4046107.733333
+"iOS","iPhone17,2",100,,3215569.033333
+"iOS","iPhone16,2",98,,3178884.166667
+"iOS","iPhone14,3",94,,2818867.066667
+"iOS","iPhone13,2",92,,2666286.233333
+"iOS","iPhone17,1",100,,2615083.933333
+"iOS","iPhone15,3",96,,2566025.683333
+"iOS","iPhone15,2",96,,2188300.916667
+"iOS","iPhone16,1",98,,2123542.566667
+"iOS","iPhone13,4",92,,2025812.933333
+"Android","sm-s156v",78,"mediatek mt6835  mt6835",1957173.616667
+"iOS","iPhone11,8",88,,1747807.883333
+"Android","moto g22",75,"helio p35",1717873.283333
+"iOS","iPhone14,2",94,,1578972.616667
+"iOS","iPhone13,3",92,,1444020
+"iOS","iPhone12,5",90,,1240219.5
+"Android","infinix x6525",71,"unisoc t606",1220457.4
+"iOS","iPhone18,2",-1,,1196595.616667
+"Android","sm-s928b",96,"qualcomm 8 Gen 3",1192187.833333
+"iOS","iPhone17,5",100,,1161701.516667
+"iOS","iPhone18,3",-1,,1135098.666667
+"iOS","iPhone17,4",100,,1127965.266667
+"Android","tecno bg6",71,"unisoc t606",1083037.716667
+"iOS","iPhone18,1",-1,,1075948.416667
+"Android","infinix x6525",65,,1021135.083333
+"iOS","iPhone14,8",94,,1013420.266667
+"Android","tecno kl4",76,"spreadtrum t615  ums9230_kl4_go",990387.083333
+"iOS","iPhone12,8",90,,911796.383333
+"iOS","iPhone15,5",96,,892806.316667
+"Android","moto g - 2025",79,"mediatek mt6835  mt6835",881713.833333
+"Android","2409brn2ca",75,"helio p65",860020.65
+"Android","rmx3834",73,"unisoc t612",833488.5
+"Android","25028rn03a",76,"spreadtrum ums9230e  serenity",829764.683333
+"Android","v2111",75,"helio p35",819396.45
+"iOS","iPhone12,3",90,,787696.283333
+"iOS","iPhone14,6",94,,754657.583333
+"Android","v2111",73,"MT6765V/CB, mt6765",741386.783333
+"Android","tecno kl4",65,,740867.033333
+"Windows","15U50P-KP50ML",76,"11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",740063.883333
+"Android","cph2467",83,"qualcomm 695",738804.583333
+"Android","rmx3760",74,"unisoc t612",726358.916667
+"Android","tecno bg6",65,,715914.183333
+"Android","cph2269",73,"MT6765G, mt6765",714540.233333
+"Android","cph2591",74,"helio p65",700257.233333
+"Android","sm-a556e",88,"exynos 1480",697077.1
+"Android","sm-s918b",95,"qualcomm 8 Gen 2",670690
+"Android","cph2381",83,"qualcomm 695",665464.65
+"Android","23106rn0da",75,"helio p65",664600.833333
+"Android","rmx3710",75,"helio p65",645252.55
+"Android","infinix x6532",74,"helio p65",639382.966667
+"Android","24117rn76g",78,"helio g99",623094.683333
+"Android","moto g play - 2024",82,"qualcomm 680",618519.05
+"Android","sm-a356e",85,"exynos 1380",610865.383333
+"Android","tecno ki7",80,"mediatek mt6769h mt6769h mt6769",596678.75
+"Windows","950XGK",76,"Intel(R) Core(TM) Ultra 5 125H",595645.883333
+"Android","cph2269",75,"helio p35",588759
+"Android","sm-s938b",94,"qti sm8750  qcom",587793.9
+"Android","23053rn02a",75,"helio p65",584920.95
+"Android","tecno km4",76,"spreadtrum ums9230e  ums9230_km4_go",578657.766667
+"Android","sm-a065f",74,"helio p65",573689.733333
+"Android","infinix x6725",76,"spreadtrum ums9230e  ums9230_x6725_go",570839.566667
+"iOS","iPhone13,1",92,,569506.366667
+"Android","vivo 1906",76,"qualcomm 439",568436.383333
+"Android","v2204",75,"helio p35",568094.616667
+"Android","2404arn45a",75,"helio p65",534952.733333
+"Android","infinix x6528",72,"unisoc t606",529693.183333
+"Android","cph2641",79,"qualcomm 662",527397.666667
+"Android","cph2667",81,"mediatek mt6835  mt6835",526114.983333
+"Android","sm-a546e",85,"exynos 1380",522492.45
+"Android","sm-a165f",77,"helio g99",521014.833333
+"Android","sm-a055f",74,"helio p65",518015.333333
+"Android","v2420",81,"mediatek mt6835  mt6835",513047.85
+"MAC","MacBookPro18,1",89,,512407.95
+"iOS","iPhone11,6",88,,501367.133333
+"iOS","iPhone15,4",-1,,501079.4
+"Android","sm-s135dl",75,"helio p35",500032.783333
+"iOS","iPhone14,5",-1,,498699.1
+"Android","23117ra68g",78,"helio g99",477996.883333
+"Android","sm-a156e",81,"mediatek mt6835  mt6835",476864.6
+"Android","cph2269",73,,475289.333333
+"Android","moto g85 5g",83,"qualcomm 695",459088.116667
+"Android","rmx3933",73,"unisoc t612",452921.15
+"Android","v2430",73,"unisoc t612",450244.3
+"Android","v2437",82,"mediatek mt6878  mt6878",447027.616667
+"Android","23129raa4g",81,"qualcomm 680",444284.883333
+"Android","infinix x688b",73,"MT6765G, mt6765",440996.4
+"Android","m2004j19c",74,"helio p65",440750.016667
+"Android","moto g15",74,"helio p65",440475.483333
+"Android","cph2641",86,,438711.2
+"Android","rmx3830",73,"unisoc t612",428925.466667
+"Android","motorola edge 50 fusion",85,"qualcomm 7s Gen 2",424142.383333
+"Android","24116raccg",78,"helio g99",420466.2
+"Android","cph2665",81,"mediatek mt6835  mt6835",420215.583333
+"Android","sm-a166p",81,"mediatek mt6835  mt6835",418696.4
+"Android","sm-a156u",78,"mediatek mt6835  mt6835",412225.183333
+"iOS","iPad12,1",90,,411421.716667
+"Android","v2427",88,"qualcomm 7 Gen 3",410857.05
+"Android","2409brn2cl",74,"helio p65",406922.9
+"iOS","iPhone14,7",-1,,403909.966667
+"iOS","iPhone10,1",86,,398059.6
+"Android","n159v",82,"qualcomm 680",393849.516667
+"Android","v2120",73,"MT6765V/CB, mt6765",391333.333333
+"Android","v2043",73,"MT6765V/CB, mt6765",391010.883333
+"Android","vivo 1906",82,"Qualcomm 439",389183.05
+"Android","sm-s911b",95,"qualcomm 8 Gen 2",388378.6
+"Android","sm-a165f",78,"helio g99",385085.616667
+"Android","cph2477",75,"helio p35",381940.7
+"Android","cph2591",69,,381795.666667
+"Android","23129rn51x",74,"helio p35",379972.45
+"iOS","iPad13,19",92,,376839.416667
+"Android","rmx3998",81,"mediatek mt6835  mt6835",375573.533333
+"Android","cph2467",89,"Qualcomm 695",374639.166667
+"Android","cph2681",79,"mediatek mt6835  mt6835",373464.25
+"Android","cph2695",81,"mediatek mt6835  mt6835",372131.466667
+"Android","v2310",75,"helio p65",372030.783333
+"Android","sm-s928n",96,"qualcomm 8 Gen 3",368180.3
+"Android","v2403",82,"mediatek mt6878  mt6878",367640.666667
+"Android","tecno kl4",65,", ums9230_KL4_go",366658.083333
+"Android","infinix x6725",65,,366386.833333
+"Android","cph2179",75,"helio p35",366306.833333
+"Android","sm-a047f",81,"samsung exynos 850 samsung a04s eur open rev03c board based on exynos850 exynos850",365470.3
+"Android","sm-s721b",95,"exynos 2400",362365.7
+"iOS","iPhone12,1",-1,,362232
+"Android","tecno bf7",67,,358322.016667
+"Android","cph2083",75,"helio p35",358286.283333
+"Android","cph2477",73,"MT6765G, mt6765",358042.333333
+"Android","rmx3834",65,,356180.016667
+"Android","v2434",81,"qualcomm 680",353690.85
+"Android","sm-s938n",94,"qti sm8750  qcom",353088.15
+"Android","redmi note 8",81,"qualcomm technologies, inc trinket qcom",351357.85
+"Android","cph2637",81,"mediatek mt6835  mt6835",349265.816667
+"Android","m2003j15sc",74,"helio p65",348379.933333
+"Android","infinix x6532c",74,"helio p35",348077.65
+"Android","sm-e156b",81,"mediatek mt6835  mt6835",347841.133333
+"Android","infinix x688b",75,"helio p35",347559.966667
+"Android","25028rn03a",65,,346541.366667
+"Android","sm-a325f",75,"helio g70",339509.3
+"Android","sm-a155f",78,"helio g99",338739.066667
+"Android","2409brn2ca",72,", mt6768",337897.116667
+"Android","cph2577",75,"helio p65",337781.05
+"Android","23076rn4bi",83,"qualcomm 4 Gen 2",334564.6
+"Android","cph2495",76,"mediatek 700",334242
+"Android","sm-a065m",74,"helio p65",334137.45
+"Android","cph2773",86,,333767.9
+"Android","v2416",83,"qualcomm 4 Gen 2",331074.116667
+"Android","sm-a346e",82,"mediatek 900",330282.916667
+"Android","motorola edge 60 fusion",82,"mediatek mt6878  mt6878",329884.116667
+"Android","cph1909",75,"helio p35",328551.933333
+"Android","sm-a366e",86,"qti sm6475  qcom",328006.65
+"Android","moto g54 5g",79,"mediatek 930",326164.516667
+"Android","sm-a127f",81,"samsung exynos 850  exynos850",324448.233333
+"Android","pixel 8a",83,"google tensor g3  akita",324098.733333
+"Android","tecno kl5",75,"helio p65",323281.05
+"Android","moto g stylus 5g - 2024",83,"qualcomm 6 Gen 1",322991.366667
+"Android","v2338",83,"qualcomm 6 Gen 1",322104.683333
+"Android","sm-g781w",89,"qualcomm 865",321172.766667
+"Android","23021raaeg",81,"qualcomm 680",318980.966667
+"Android","cph2239",75,"helio p35",318440.283333
+"iOS","iPad13,18",92,,318440.05
+"Android","v2336",83,"qualcomm 4 Gen 2",318223.633333
+"Android","sm-s921b",96,"exynos 2400",317827.066667
+"Android","sm-a155f",77,"helio g99",315925.816667
+"Android","tecno bf7",69,"helio a20",315763.766667
+"Android","v2443",83,"qualcomm 4 Gen 2",313121.516667
+"Android","sm-a566e",88,"samsung s5e8855  s5e8855",312401.75
+"Android","2406ern9ci",83,"qualcomm 4 Gen 2",312138.316667
+"iOS","iPhone14,4",94,,311200.566667
+"Android","sm-t585",74,"samsungexynos7870",309075.266667
+"Android","rmx5303",79,"spreadtrum ums9230e  ums9230_dhaka",308392.533333
+"Android","2404arn45a",72,", mt6768",307229.9
+"Android","220333qag",82,"qualcomm 680",307034.616667
+"Android","sm-a125f",75,"helio p35",306369.65
+"Android","23053rn02a",72,,305874.933333
+"Android","v2315",76,"mediatek 700",305084.55
+"Android","infinix x669",71,"unisoc t606",304646.85
+"Android","23124rn87i",81,"mediatek mt6835  mt6835",304319.883333
+"iOS","iPhone17,2",-1,,303514.65
+"Android","cph2487",92,"qualcomm 8+ gen 1",302948.4
+"Android","sm-s711b",90,"exynos 2200",302753.833333
+"Android","rmx3997",81,"mediatek mt6835  mt6835",300788.25
+"Android","redmi note 8 pro",77,"helio g90t",300706.483333
+"Android","sm-a155m",78,"helio g99",300346.816667
+"Android","m2006c3mg",73,,299901.383333
+"Android","cph2471",75,"helio p35",299705.083333
+"Android","v2344",73,"unisoc t612",299397.516667
+"Android","v2204",73,"MT6765V/CB, mt6765",298566.233333
+"Android","rmx3930",74,"unisoc t612",297380.216667
+"Android","rmx3938",73,"unisoc t612",296997.366667
+"Android","25028rn03a",65,", serenity",296675.55
+"iOS","iPhone11,2",88,,295970.183333
+"Android","cph2643",82,"mediatek 900",294482.583333
+"Android","cph2387",75,"helio p35",294434.733333
+"Android","sm-a065f",69,,292703.666667
+"Android","cph2753",81,"mediatek mt6835  mt6835",291916.133333
+"Android","sm-a135f",81,"samsung exynos 850 samsung a13 eur open rev02b board based on exynos850 exynos850",291456.316667
+"iOS","iPhone15,3",-1,,290921.4
+"iOS","iPhone17,3",-1,,290402.05
+"Android","cph2613",88,"qualcomm 7 Gen 3",290337.45
+"Android","infinix x6532",69,,289244.633333
+"Android","v2430",65,", ums9230_6h10",288717.6
+"Android","m2006c3lg",64,,287910.1
+"Android","23129ra5fl",81,"qualcomm 680",287288.133333
+"Android","rmx3511",74,"unisoc t616",285928.716667
+"Android","moto g 5g - 2024",80,"qualcomm 4 Gen 1",284477.7
+"Android","25028rn03l",76,"spreadtrum ums9230e  serenity",284289.033333
+"Android","v2310",74,"helio p65",283626.283333
+"Android","2312dra50g",85,"qualcomm 7s Gen 2",281579.983333
+"Android","v2439",82,"mediatek mt6878  mt6878",279344.483333
+"Android","tecno ki5k",72,"unisoc t606",279046.866667
+"Android","infinix x6880",78,"helio g99",278810
+"Android","v2352",75,"helio p65",277746.683333
+"Android","23124rn87i",78,"mediatek mt6835  mt6835",274980.116667
+"iOS","iPhone10,3",86,,274715.25
+"iOS","iPhone16,2",-1,,274681.633333
+"Android","cph2619",83,"qualcomm 695",274234.933333
+"Android","v2419",74,"unisoc t612",273357.466667
+"Android","sm-s928u",96,"qualcomm 8 Gen 3",273057.133333
+"Android","23076rn4bi",89,", qcom",272941.783333
+"iOS","iPhone10,5",86,,272610.05
+"Android","infinix x6728",75,"helio p65",269237.416667
+"Android","sm-a042f",75,"helio p35",269221.033333
+"Android","cph2185",75,"helio p35",269196.266667
+"Android","r29p",-1,,268757.75
+"Android","v2348",88,"qualcomm 7 Gen 3",268687.716667
+"Android","cph2603",82,"mediatek 900",268495.516667
+"Android","25078ra3ea",75,"helio p65",268137.933333
+"Android","itel a665l",65,,266232.216667
+"Android","v2312",78,"mediatek 6020",265057.283333
+"Android","v2225",76,"mediatek 700",264724.8
+"Android","cph2693",81,"mediatek mt6835  mt6835",264631.233333
+"Android","sm-s918n",95,"qualcomm 8 Gen 2",263482.633333
+"Android","v2428",82,"mediatek mt6878  mt6878",263344.716667
+"Android","cph2641",86,", qcom",260839.933333
+"Android","u380aa",69,"helio a20",259991.066667
+"Android","v2303",83,"qualcomm 695",259707.666667
+"Android","v2333",75,"helio p65",258978.383333
+"Android","sm-a256e",84,"exynos 1280",258812.25
+"Android","cph2179",73,"MT6765V/CB, mt6765",257221.183333
+"Android","rmx3195",69,"MT6769V/CZ, mt6768",254604.516667
+"Windows","950XED",76,"12th Gen Intel(R) Core(TM) i5-1240P",253834.366667
+"iOS","iPad15,7",96,,252834.616667
+"Android","tecno ki5k",71,"unisoc t606",252400.066667
+"Android","24117rn76l",78,"helio g99",252298.716667
+"Android","rmx3940",81,"mediatek mt6835  mt6835",252187.6
+"Android","sm-a556e",71,,252063.466667
+"Android","rmx3760",68,,251538.816667
+"Android","brp-nx1",83,"qualcomm 6 Gen 1",251394.3
+"Android","v2310",72,", mt6768",250132.6
+"Android","infinix x6515",67,,249720.75
+"Android","v2307",81,"qualcomm 695",248772.683333
+"Android","cph2579",74,"helio p65",247791.033333
+"Android","v2511",87,"qti sm7750  qcom",247254.216667
+"Android","sm-a045f",75,"helio p35",246963.033333
+"Android","23090ra98g",84,"mediatek 7200",246901.166667
+"Android","itel a665l",71,"unisoc t603",246201.833333
+"Android","23129rn51x",73,", mt6765",245570.533333
+"Android","tecno bg6",69,"Unisoc T606",245240.6
+"Android","cph2631",83,"qualcomm 680",245205.783333
+"Android","tecno km4",65,", ums9230_KM4_go",244792.583333
+"Android","rmx3834",69,"Unisoc T612",244689.016667
+"Android","moto g45 5g",83,"qualcomm 695",243833.933333
+"Android","tecno bg7",74,"helio p35",243401.5
+"Android","2409brn2ca",72,,242073.716667
+"Android","23129rn51x",73,,242029.666667
+"Android","sm-a245f",78,"helio g99",240037.966667
+"Android","vivo 1820",64,,236527.283333
+"Android","v2351",81,"mediatek mt6835  mt6835",235822.366667
+"iOS","iPhone16,2",66,,235771.166667
+"Android","sm-s938u",94,"qti sm8750  qcom",235725.566667
+"Android","infinix x6833b",78,"helio g99",235157.583333
+"Android","v2109",75,"helio p65",235028.866667
+"Android","v2355",83,"qualcomm 4 Gen 2",234305.45
+"Android","sm-a176b",84,"exynos 1330",234210.35
+"Android","vivo 1901",70,"helio a25",233935.133333
+"Android","rmx3261",69,"Unisoc T610",233817.55
+"Android","ali-nx1",83,"qualcomm 6 Gen 1",233649.766667
+"Android","cph2579",75,"helio p65",232653.9
+"Android","cph2477",73,,232193.916667
+"Android","tecno km4",65,,231947.133333
+"Android","cph2721",83,"qualcomm 6 Gen 1",231183.066667
+"Android","sm-a057f",82,"qualcomm 680",231145.266667
+"Android","v2434",89,,231144.133333
+"Android","2409brn2ca",74,"helio p65",231043.266667
+"Android","v2043",75,"helio p35",230116.383333
+"Android","rmx3195",74,"helio p65",229848.816667
+"Android","redmi note 9 pro",83,"qualcomm 720g",229626.716667
+"Android","v2318",88,"qualcomm 7 Gen 3",229332.15
+"Android","v2250",85,"qualcomm 778g",229300.483333
+"iOS","iPhone13,2",-1,,229229.4
+"Android","moto g(20)",73,"unisoc t700",229137.916667
+"Android","220333qag",86,"Qualcomm 680",229002.866667
+"Android","v2130",81,"mediatek 1080",228711.3
+"Android","rmx3785",81,"mediatek mt6835  mt6835",225928.016667
+"Android","sm-a037f",75,"helio p35",225287.4
+"Android","sm-a146b",84,"exynos 1330",224721.4
+"Android","redmi 8",76,"qualcomm 439",224643.733333
+"Android","infinix x6531",75,"helio p65",224579.133333
+"Android","23100rn82l",74,"helio p65",224193.45
+"Android","cph2381",89,"Qualcomm 695",224042.35
+"Android","sm-a266b",85,"exynos 1380",224021.966667
+"Android","moto g34 5g",83,"qualcomm 695",223178.966667
+"Android","infinix x6831",80,"mediatek mt6769h mt6769h mt6769",222477.75
+"Android","v2344",65,", ums9230_6h10",221528.6
+"Android","tecno ki5k",68,,221513.666667
+"iOS","iPhone14,3",-1,,219897.666667
+"Android","infinix x6882",78,"helio g99",219602.316667
+"Android","infinix x6528",68,,219128.883333
+"Windows","950XFG",76,"13th Gen Intel(R) Core(TM) i5-1340P",218964.816667
+"Android","cph2127",82,,218823.366667
+"Android","nic-lx2",75,"helio p65",218236.283333
+"Android","moto g stylus (2022)",74,"helio p65",217517.433333
+"Android","m2006c3mii",73,"MT6765G, mt6765",217052.716667
+"Android","23124ra7eo",81,"qualcomm 680",216837.166667
+"Android","sm-s928b",93,,216778.333333
+"iOS","iPhone15,2",-1,,216748.866667
+"Android","sm-a155m",77,"helio g99",216409.916667
+"Android","v2420",79,"mediatek mt6835  mt6835",215946.133333
+"Android","infinix x669",65,,214776.716667
+"Android","sm-a225m",74,"helio g70",213750.983333
+"Android","v2120",73,,213085.466667
+"iOS","iPhone14,2",-1,,212903.683333
+"Android","rmx3939",74,"unisoc t612",211977.25
+"Android","rmx3938",65,,211545.533333
+"Android","cph2185",73,"MT6765V/CB, mt6765",211228.833333
+"Android","v2026",75,"helio p35",211023.033333
+"Android","m2004j19c",69,,210960.983333
+"Android","24117rn76g",75,", mt6789",210817.283333
+"Android","v2507",74,"unisoc t612",210433.533333
+"Android","sm-a325m",74,"helio g70",209871.7
+"Android","2201117tg",83,"qualcomm 680",209808.883333
+"Android","moto g64 5g",81,"mediatek 7020",209707.633333
+"Android","220233l2g",73,"helio g25",209684.016667
+"Android","sm-a536e",84,"exynos 1280",209352.983333
+"Android","v2352",72,,209241.033333
+"Android","23106rn0da",74,"helio p65",209181.416667
+"Android","tecno cm6",78,"helio g99",207607.766667
+"Android","tecno kj6",78,"helio g99",206868.933333
+"Android","cph2585",94,"qualcomm 8 Gen 2",206177.95
+"Android","rmx3231",74,"octa core rmx3231",205913.633333
+"Android","sm-a042f",73,,205409.583333
+"Android","m2101k6g",83,"qualcomm 730",205281.25
+"Android","vog-l29",86,"kirin 980",205276.466667
+"Android","infinix x6855",78,"helio g99",205138.633333
+"Android","sm-a566b",88,"samsung s5e8855  s5e8855",204862.65
+"Android","sm-a055m",74,"helio p65",204639.5
+"iOS","iPhone17,1",-1,,203579.15
+"Android","23129raa4g",89,", qcom",203538.883333
+"Android","sm-a356e",71,,203336.45
+"Android","v2437",75,", mt6878",203262.233333
+"Android","22120rn86g",74,"helio p65",203159.483333
+"Android","v2432",79,"mediatek mt6835  mt6835",203097.733333
+"Android","sm-a137f",74,"helio p65",202969.533333
+"Android","rmx3261",73,"unisoc t610",202676.533333
+"iOS","iPhone16,1",-1,,202616.1
+"Android","cph2325",75,"helio p35",201818
+"Android","v2334",84,"mediatek 7200",201751
+"Android","tecno ki5k",65,,201066.866667
+"Android","cph2473",83,"qualcomm 680",201029.733333
+"Android","v2027",80,"qualcomm sm4250 qualcomm technologies, inc bengal qcom",200894.766667
+"Android","moto g84 5g",83,"qualcomm 695",200854.516667
+"Android","sm-a155f",75,,199529.533333
+"Android","v2339",83,"qualcomm 6 Gen 1",199189.95
+"iOS","iPhone10,2",86,,199157.716667
+"Android","sm-s908e",92,"qualcomm 8 gen 1",199135.15
+"Android","tecno kj5",75,"helio p65",198819.316667
+"Android","jdy-lx2",75,"helio p65",198324.5
+"iOS","iPad12,2",90,,198262.566667
+"Android","vivo 1904",69,,198207.85
+"Android","v2026",73,,198141.6
+"Android","sm-a166p",75,", mt6835",198085.283333
+"Android","infinix x6837",78,"helio g99",197762.883333
+"Android","infinix x6858",78,"helio g99",197717.716667
+"Android","sm-a217f",81,"samsung exynos 850  exynos850",197593
+"Android","tecno kl5",74,"helio p65",197446.75
+"Android","sm-a235f",83,"qualcomm 680",197173.616667
+"Android","sm-a307fn",80,"exynos7904",196894.833333
+"Android","cph1909",73,"MT6765, mt6765",196774.933333
+"Android","iv2201",80,"mediatek 1080",196541.433333
+"Android","sm-a165m",77,"helio g99",196381.75
+"Android","m2006c3mg",75,"helio p35",196292.3
+"Android","tecno kl5",72,", mt6768",196118.033333
+"Android","tecno km5",75,"helio p65",195960.75
+"Android","sm-a032f",67,"unisoc sc9863a",195925.866667
+"Android","v2141",83,"qualcomm 695",195376.266667
+"Android","infinix x6886",78,"helio g99",195235.666667
+"Android","sm-a566b",71,,195194.1
+"Android","infinix x6525b",74,"helio p35",195161.7
+"Android","cph2401",86,"mediatek 1300",195153.316667
+"Android","23053rn02i",75,"helio p65",194892.566667
+"Android","2312draabi",80,"mediatek 6020",194594.416667
+"Android","sm-a165f",75,,194541.133333
+"MAC","Mac16,8",93,,194401.333333
+"Android","v2311",76,"mediatek 700",194362.65
+"Android","v2333",72,", mt6768",193759.3
+"Android","infinix x6532",69,", mt6768",193462.983333
+"Android","23117ra68g",75,,193228.433333
+"Android","cph2239",76,"helio p35",193102.1
+"Android","sm-a055f",69,,192511.75
+"Android","cph2553",78,"mediatek 6020",192002.066667
+"Android","infinix x6532c",73,,191734.733333
+"Android","sm-a166u",83,"exynos 1330",191345.216667
+"Android","cph2577",72,,190947.383333
+"Android","2311drk48g",89,"mediatek 8300",190936.45
+"Android","cph2751",81,"mediatek mt6835  mt6835",190088.616667
+"Android","rmx3263",73,"unisoc t610",189987.933333
+"Android","m2006c3lg",71,"helio g25",189680.116667
+"Android","2404arn45a",72,,189579.183333
+"Android","v2027",82,"Qualcomm Technologies, Inc BENGAL, qcom",188757.3
+"Android","sm-g781b",89,"qualcomm 865",188503.7
+"Android","sm-a145f",77,"exynos 850",188326.25
+"iOS","iPad13,9",92,,188246.483333
+"Android","cph2387",73,,188004.516667
+"Android","sm-a715f",82,"qualcomm 730",187757.4
+"Android","moto g35 5g",77,"unisoc t760",187044.883333
+"Android","cph1909",73,,186982.833333
+"Android","infinix x669c",76,"helio p35",186941.95
+"Android","v2026",73,"MT6765V/CB, mt6765",186416.383333
+"Android","2201116tg",77,"helio g96",186396.8
+"Android","rmx3771",82,"mediatek 1080",186211.25
+"Android","rmx3710",72,,186022.4
+"Android","cph2617",78,"mediatek 6020",185026.3
+"Android","v2120",75,"helio p35",184121.083333
+"Android","tecno ki7",72,,183748.383333
+"Android","v2111",73,,183728.166667
+"Android","vivo y17",73,"MT6765V/CB, mt6765",183588.55
+"Android","sm-g990b2",89,"qualcomm 888",183378.5
+"Android","sm-a075f",77,"helio g99",183365.383333
+"Android","cph2737",89,"mediatek 8300",182927.066667
+"Android","23100rn82l",75,"helio p65",182774.866667
+"Android","cph2531",82,"mediatek 1080",182733.383333
+"Android","rmx3941",75,"helio p65",182531.566667
+"Android","2412dpc0ag",84,"mediatek mt6899  mt6899",182330.666667
+"Android","v2247",83,"qualcomm 680",182056.85
+"Android","cph1803",82,,180848.133333
+"Android","cph2617",77,"mediatek 6020",180716.016667
+"Android","v2249",75,"helio p65",180666.083333
+"Android","rmx3870",82,"mediatek 1080",180564.133333
+"Android","sm-s901u",92,"qualcomm 8 gen 1",179355.15
+"Android","sm-s931n",94,"qti sm8750  qcom",179334.383333
+"Android","tecno bf6",67,"unisoc sc9863a",179136.266667
+"Android","sm-a556e",71,", s5e8845",178180.966667
+"Android","infinix x6515",69,"helio a20",177889.883333
+"Android","cph2423",84,"mediatek 8100",177865
+"Android","sm-a035f",65,,177864.15
+"Android","rmx3780",81,"mediatek mt6835  mt6835",177852.116667
+"Android","v2205",83,"qualcomm 680",177822.383333
+"Android","sm-a127f",77,", exynos850",177502
+"Android","23090ra98i",84,"mediatek 7200",177344.333333
+"Android","infinix x6885",78,"helio g99",177211.583333
+"Android","rmx2030",81,"qualcomm technologies, inc sdm665 qcom",177023.583333
+"Android","v2506",83,"qualcomm 4 Gen 2",176570.1
+"Windows","550XDA",82,"11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz",176440.266667
+"Android","cph2631",89,,176339.266667
+"Android","cph2471",73,"MT6765G, mt6765",176208.783333
+"Android","sm-a528b",85,"qualcomm 778g",176098.816667
+"Android","moto g24 power",75,"helio p65",175557.25
+"Android","cph2127",80,"qualcomm sm4250 qualcomm technologies, inc sm4250 qcom",175419.85
+"Android","cph2185",73,,174665.233333
+"Android","24094rad4i",81,"mediatek 7020",174635.916667
+"Android","cph2565",83,"qualcomm 680",173818.833333
+"Android","rmx3933",65,,173285.166667
+"Android","infinix x6531",74,"helio p65",173020.466667
+"Android","sm-a065m",69,,173000.116667
+"Android","v2207",74,"helio p65",172896.566667
+"Android","v2507",68,", ums9230_6h10",172010.15
+"Android","redmi note 8",82,,172007.4
+"Android","cph2015",75,"helio p35",171869.5
+"Android","infinix x688b",73,,171863.35
+"Android","tecno ki7",72,"MT6769H, mt6769",171826.5
+"Android","cph2569",87,"qualcomm 782g",171686.733333
+"MAC","Mac16,7",93,,171289.266667
+"Android","23129raa4g",89,,171202.633333
+"Android","infinix x669c",75,,171059.316667
+"Android","sm-a546e",71,,170947.85
+"Android","v2419",65,,170830.1
+"iOS","iPhone17,2",66,,170500.5
+"Android","sm-g781u",89,"qualcomm 865",170492.683333
+"Android","v2332",69,,170405.833333
+"Android","cph2179",73,,169348.233333
+"Android","sm-a336e",84,"exynos 1280",168469.116667
+"Android","v2102",82,"Qualcomm 439",168210
+"Android","cph2471",73,,168015.383333
+"Android","cph2239",73,,168003.8
+"iOS","iPad13,16",92,,167933.366667
+"Android","v2509",81,"mediatek mt6835  mt6835",167547
+"Android","infinix x6528",71,"unisoc t606",167435.933333
+"iOS","iPad16,1",98,,166687.566667
+"Android","v2332",74,"helio p65",166359.15
+"iOS","iPhone13,4",-1,,166058.9
+"MAC","Mac15,7",93,,166012.616667
+"Android","m2006c3mii",75,"helio p35",165942.116667
+"Android","sm-a035f",74,"unisoc t616",165731.633333
+"Android","v2434",89,", qcom",163981.183333
+"Android","sm-s926b",96,"exynos 2400",163850.966667
+"Android","sm-a166m",84,"exynos 1330",163656.583333
+"Android","v2102",76,"qualcomm 439",163621.9
+"Android","cph2689",89,"mediatek 8300",163003.55
+"Android","v2246",84,"mediatek 7200",162916.95
+"Android","v2352",72,", mt6768",162879.216667
+"Android","sm-g990e",88,"samsung exynos 2100  exynos2100",162630.116667
+"Android","sm-a156e",75,", mt6835",162212.516667
+"Android","moto g85 5g",89,", qcom",162028.233333
+"Android","rmx3930",68,,161503.7
+"Android","sm-s938u1",94,"qti sm8750  qcom",161014.316667
+"Android","cph2781",81,"mediatek mt6835  mt6835",160754.816667
+"Android","itel s665l",71,"unisoc t606",160676.333333
+"Android","rmx3782",81,"mediatek mt6835  mt6835",160659.083333
+"Android","23124rn87i",75,", mt6835",160602.716667
+"Windows","15U50S-GP50ML",72,"Intel(R) Core(TM) Ultra 5 125U",160597.683333
+"Android","rmx3710",72,", mt6768",160366.85
+"Android","tecno km5",72,", mt6768",159683.583333
+"Android","infinix x657b",67,,159517.266667
+"Android","v2430",72,"ums9230_6h10",159416.5
+"Android","2409brn2ca",69,,159394.516667
+"Android","moto g04s",71,"unisoc t606",159175
+"Android","rmx3201",73,"MT6765G, mt6765",159077.316667
+"Android","sm-e156b",78,"mediatek mt6835  mt6835",158513.116667
+"Android","tecno km7",78,"helio g99",158350.75
+"Android","rmx5303",68,", ums9230_dhaka",158226.5
+"Android","sm-m115f",74,"qualcomm 450",157942.45
+"Android","tecno km5",74,"helio p65",157644.35
+"Android","cph2083",73,,157321.233333
+"Android","24117rn76g",75,,157246.816667
+"Android","22101317c",85,", qcom",157107.933333
+"Android","sm-a125f",73,"MT6765V/CB, mt6765",157083.15
+"Android","25028rn03l",65,,156625.183333
+"Android","sm-a356e",71,", s5e8835",156538.25
+"Android","cph2725",79,"qualcomm 662",156456.783333
+"Android","sm-a037f",73,"MT6765V/WB, mt6765",155841.2
+"Android","cph1803",74,"qualcomm 450",155630.966667
+"Android","cph1803",76,,155607.65
+"Android","infinix x6725b",76,"spreadtrum ums9230e  ums9230_x6725b",155578.466667
+"Android","pixel 6 pro",83,"google tensor  raven",155440.233333
+"Android","motorola edge 50 pro",88,"qualcomm 7 Gen 3",155409.583333
+"Android","23108rn04y",75,"helio p65",155351.733333
+"Android","sm-a145m",77,"exynos 850",154872.016667
+"Android","sm-s931b",94,"qti sm8750  qcom",154563.366667
+"Android","sm-a736b",85,"qualcomm 778g",154500.566667
+"Android","infinix x6516",60,,153606.466667
+"iOS","iPad13,1",92,,153142.933333
+"Android","motorola edge 40 neo",81,"mediatek 1050",152551.516667
+"iOS","iPhone15,3",66,,152533.25
+"Android","cph2505",83,"qualcomm 695",152287.6
+"Android","cph2707",92,"qualcomm 8s Gen 3",152242.65
+"Android","24116pcc1i",82,"qti sm4635  qcom",152122.966667
+"Android","sm-a325f",72,,151879.5
+"Android","sm-s908u",92,"qualcomm 8 gen 1",151582.733333
+"iOS","iPad14,1",94,,151492.7
+"Android","sm-s921n",96,"exynos 2400",151410.333333
+"Android","rmx3760",72,"Unisoc T612",150959.016667
+"Android","m2101k7bi",77,"helio g90t",150780.883333
+"Android","cph2591",69,", mt6768",150718.116667
+"Android","24115ra8eg",86,"qti sm7635  qcom",150680.85
+"Android","vivo 1904",70,"helio a25",150672.95
+"Android","sm-a057f",83,"qualcomm 680",150115.15
+"Android","v2420",75,", mt6835",149664.85
+"Android","sm-a065f",75,"helio p65",149636.083333
+"Android","rmx3938",65,", ums9230_latte",149395.716667
+"Android","2201117tg",89,"Qualcomm 680",149062.933333
+"Android","infinix x6870",82,"mediatek mt6878  mt6878",149026.333333
+"Android","25028pc03g",65,,149022.2
+"Android","v2321",84,"mediatek 7200",148946.716667
+"Android","vivo 1920",79,"qualcomm 665",148653.566667
+"Android","cph2333",83,"qualcomm 680",148498.65
+"Android","23106rn0da",72,,148412.7
+"Android","sm-f721n",94,"qualcomm 8+ gen 1",148312.583333
+"Android","cph2599",82,"mediatek 1080",148034.533333
+"Android","sm-a155f",73,,147579.766667
+"Android","sm-a127f",77,,147445.65
+"Android","infinix x6833b",75,,147236.6
+"Android","sm-s931u",94,"qti sm8750  qcom",146908.233333
+"iOS","iPad11,6",88,,146734.116667
+"Android","cph2705",82,"mediatek mt6878  mt6878",146284.3
+"Android","sm-a135m",81,"samsung exynos 850 samsung a13 eur open rev02b board based on exynos850 exynos850",146100.15
+"Android","sm-s938b",97,,146041.766667
+"Android","rmx3263",65,,146018.15
+"Android","2406ern9ci",89,", qcom",145996.15
+"Android","2409brn2cl",69,,145760.65
+"Android","infinix x6525",69,"Unisoc T606",145651.866667
+"Android","infinix x6728",72,", mt6768",145641.7
+"Android","cph2363",83,"qualcomm 680",145605.916667
+"Android","sm-n981n",91,"qualcomm 865",145450.383333
+"Android","infinix x6853",78,"helio g99",145357.416667
+"Android","23129ra5fl",89,,145109.6
+"Android","rmx3933",65,", ums9230_latte",145082.35
+"Android","v2310",69,,144939.783333
+"Android","sm-s908n",92,"qualcomm 8 gen 1",144741.433333
+"Android","v2039",82,,144485.5
+"Android","cph2667",75,", mt6835",144427.583333
+"Android","22120rn86g",75,"helio p65",144131.1
+"Android","sm-m315f",85,"samsung exynos 9611  exynos9611",144127.133333
+"Android","22101316i",82,"mediatek 1080",144088.416667
+"Android","moto g05",74,"helio p65",143953.716667
+"Android","sm-a525f",83,"qualcomm 720g",143833.383333
+"iOS","iPhone11,8",-1,,143794.416667
+"Android","cph2729",85,"qti sm6650  qcom",143449.25
+"Android","220333qbi",82,"qualcomm 680",143340.783333
+"Android","sm-a135f",77,,143217.8
+"Android","cph2219",79,"qualcomm 662",143059.9
+"Android","vivo 1820",68,"helio a25",142899.05
+"Android","tecno kg5k",76,"unisoc ums9230 kg5k",142835.416667
+"Android","v2356",81,"mediatek mt6835  mt6835",142725.15
+"Android","2409brn2ca",75,"mt6768",142702.666667
+"Android","cph2669",80,"qualcomm 662",142287.783333
+"Android","sm-g960u",86,"qualcomm 845",142089
+"Android","sm-s926n",96,"exynos 2400",142049.716667
+"Android","rmx3430",74,"helio p65",141663.966667
+"Android","2409brn2cl",75,"helio p65",141567.4
+"Android","24116rnc1i",82,"qti sm4635  qcom",141418.183333
+"Android","moto g45 5g",89,", qcom",141206.883333
+"Android","redmi note 8",82,"Qualcomm Technologies, Inc TRINKET, qcom",140920.8
+"Android","rmx3950",81,"mediatek mt6835  mt6835",140848.216667
+"Android","cph2387",73,"MT6765G, mt6765",140833.716667
+"Android","sm-a032f",60,,140796.883333
+"Android","moto g play - 2023",75,"helio p35",140327.516667
+"Android","sm-s911n",95,"qualcomm 8 Gen 2",140264.233333
+"Android","infinix x6881",78,"helio g99",140231.866667
+"Android","m2003j15sc",69,"MT6769Z, mt6768",140227.033333
+"Android","v2204",73,,139705.9
+"Android","cph2733",79,"mediatek mt6835  mt6835",139362.666667
+"Android","220333qbi",86,"Qualcomm 680",139139.083333
+"Android","a142",84,"mediatek 7200",138644.183333
+"Android","21121119sg",72,"MT6769H, mt6768",138585.133333
+"Android","m2006c3lg",73,"helio g25",138437.183333
+"Android","sm-a705fn",80,"qualcomm 675",138317.1
+"Android","rmx3890",81,"qualcomm 680",138269.8
+"Android","rmx3085",75,"MT6785V/CD, mt6785",137823.683333
+"Android","sm-a137f",69,,137167.133333
+"Android","sm-m356b",85,"exynos 1380",136986.7
+"Android","v2521",83,"qualcomm 4 Gen 2",136664.05
+"Android","2312draabi",75,", mt6833",136622.4
+"Android","24117rn76o",78,"helio g99",136133.2
+"Android","rmx3660",83,"qualcomm 695",135950.333333
+"Android","cph2487",89,", qcom",135825.233333
+"Android","sm-s918b",93,,135743.783333
+"Android","m2004j19c",69,"MT6769T, mt6768",135566.2
+"Android","cph2579",72,", mt6768",135438.266667
+"Android","cph2491",87,"mediatek 9000",135201.083333
+"Android","sm-t580",74,"samsungexynos7870",135055.6
+"Android","25028pc03g",76,"spreadtrum ums9230e  serenity",135016.45
+"Android","rmx3830",65,,134981.35
+"Android","cph2695",75,", mt6835",134670.95
+"Android","c3_pro",71,"unisoc t606",134647.083333
+"Android","nokia 5.3",78,"qualcomm 665",134576.2
+"Android","rmx3085",77,"helio g90t",134279.216667
+"Android","m2102j20sg",89,"qualcomm 855",134086.8
+"Android","sm-g998u",89,"qualcomm 888",133719.183333
+"Android","cph2711",80,"qualcomm 662",133573.85
+"Android","m2101k6p",83,"qualcomm 730",133570.683333
+"Android","redmi note 9 pro",82,"qualcomm 720g",133315.033333
+"Android","rmx2185",68,,133134.5
+"Android","24040rn64y",75,"helio p65",133031.766667
+"Android","rmx3944",82,"mediatek mt6835  mt6835",132990.433333
+"Android","21121119sg",74,"helio p65",132967.066667
+"Android","sm-a165m",78,"helio g99",132893.65
+"Android","cph1937",84,"qualcomm technologies, inc sdm665 qcom",132797.983333
+"Android","motorola edge 60 pro",89,"mediatek 8300",132795.116667
+"Android","24116raccg",75,,132504.366667
+"Android","sm-a515f",85,"samsung exynos 9611  exynos9611",132461.583333
+"Android","innova30",75,"unisoc t616",131862.766667
+"Android","rmx5313",76,"spreadtrum ums9230e  ums9230_dhaka",131794.383333
+"Android","infinix x6882",75,,131616.616667
+"Android","2410fpcc5g",75,"helio p65",131608.566667
+"Android","v2419",68,", ums9230_6h10",131588.233333
+"Android","sm-a315n",74,"helio p65",131558.083333
+"Android","tecno bf6",60,,131255.833333
+"Android","redmi 5 plus",82,,130587.216667
+"Android","rmx3830",69,"Unisoc T612",130328.75
+"Android","2411drn47i",82,"qualcomm 4 Gen 2",130287.3
+"Android","sm-s901n",92,"qualcomm 8 gen 1",130035.75
+"Android","rmx3834",72,"Unisoc T612",129753.433333
+"Android","24090ra29g",82,"mediatek mt6878  mt6878",129683.416667
+"Android","sm-a075f",73,,129573.633333
+"Android","moto g24",74,"helio p65",129235.55
+"Android","cph2333",89,,129215.583333
+"Android","u572ac",74,"helio p35",129176.45
+"Android","cph2629",82,"mediatek mt6878  mt6878",128962.283333
+"Android","sm-a505f",82,"exynos9610",128881.3
+"Android","sm-a057f",89,,128779.15
+"Android","rmx3867",82,"mediatek 1080",128746.383333
+"Android","2312crnccl",74,"helio p35",128714.516667
+"Android","2109119dg",85,"qualcomm 778g",128586.416667
+"Android","rmx3930",68,", ums9230_latte",128556.35
+"Android","infinix x6525b",73,,128548.15
+"Android","infinix x678b",78,"helio g99",128483.05
+"Android","sm-g892a",83,"qualcomm 835",128371.15
+"Android","moto g(20)",65,,128368.866667
+"Android","v2058",75,"helio p65",128218.616667
+"Android","2409brn2cy",75,"helio p65",128167.85
+"Android","23108rn04y",72,,127959.533333
+"Android","rmx3910",75,"helio p65",127753.433333
+"Android","v2502",86,"qti sm7635  qcom",127310.816667
+"Android","v2513",82,"mediatek mt6878  mt6878",127107.816667
+"Android","cph2015",73,,126991.683333
+"Android","cph1989",76,"helio p60",126989.85
+"Android","sm-a055f",69,"null, mt6768",126823.716667
+"Android","22101316g",82,"mediatek 1080",126061.2
+"Android","v2310",72,,125876.033333
+"Android","sm-a236e",83,"qualcomm 695",125764.383333
+"Android","a059",86,"qti sm7635  qcom",125554.766667
+"iOS","iPhone18,4",-1,,125463.966667
+"Android","cph1933",81,"qualcomm technologies, inc sdm665 qcom",125362.266667
+"Android","sm-g975f",87,"samsung exynos 9820  exynos9820",125072.966667
+"Android","sm-a346m",82,"mediatek 900",124747.533333
+"Android","sm-a156e",75,,124475.383333
+"Android","sm-a217f",77,,124450.45
+"Android","sm-s911w",95,"qualcomm 8 Gen 2",124235.983333
+"Android","rmx3741",82,"mediatek 1080",123877.633333
+"Android","cph2127",80,"qualcomm technologies, inc sm4250 qcom",123864.466667
+"Android","tecno kl5",69,,123724.016667
+"Android","ztab10",69,"helio a20",123645.866667
+"Android","v2310",69,", mt6768",123633.083333
+"Android","sm-g610f",80,"samsungexynos7870",123604.816667
+"iOS","iPhone13,3",-1,,123554.866667
+"Android","vivo y17",75,"helio p35",123502.516667
+"Android","sm-a146b",83,"exynos 1330",123493.2
+"Android","rmx3624",73,"unisoc t612",123240.266667
+"Android","2209116ag",83,"qualcomm 730",123208.65
+"Android","cph2473",89,,122959.55
+"Android","moto g32",82,"qualcomm 680",122755.866667
+"Android","motorola edge 50 fusion",89,", qcom",122672.433333
+"Android","brp-nx3",83,"qualcomm 6 Gen 1",122601.133333
+"Android","moto g pure",73,"helio g25",122575.066667
+"Android","infinix x6532c",73,", mt6765",122326.066667
+"Android","brp-nx1",89,,121952.333333
+"Android","itel a662lm",69,"unisoc sc9863a",121658.5
+"Android","v2344",72,"ums9230_6h10",121304.733333
+"Android","2311drk48g",79,,121053.483333
+"Android","cph2527",83,"qualcomm 695",121035.183333
+"Android","23124ra7eo",89,,120929.316667
+"Android","sm-a035m",74,"unisoc t616",120888.666667
+"Android","cph2083",73,"MT6765V/CB, mt6765",120814.55
+"Android","moto g96 5g",85,"qualcomm 7s Gen 2",120774.1
+"Android","dn2101",86,"mediatek 1300",120747.933333
+"Android","v2254",73,"MT6765V/CB, mt6765",120564.716667
+"Android","infinix x6531",69,,120479.733333
+"Android","cph2455",83,"qualcomm 695",120079.433333
+"Android","sm-g780g",89,"qualcomm 865",120045.533333
+"Android","rmx2195",80,"qualcomm technologies, inc sdm460 qcom",119796.966667
+"Android","24117rn76o",75,,119721.3
+"Android","v2312",77,"mediatek 6020",119378.116667
+"Android","sm-a037f",73,,119369.45
+"Android","rmx2195",82,"Qualcomm Technologies, Inc SDM460, qcom",119202.783333
+"Android","sm-a226b",77,"mediatek 810",119164
+"Android","rmx3201",75,"helio p35",118893.683333
+"Android","22101317c",81,"qualcomm 4 Gen 1",118830.2
+"Android","itel a667lp",71,"unisoc t603",118738.566667
+"Android","cph2095",79,"qualcomm 662",118548.8
+"Android","gfy-lx3",74,"helio p35",118542.533333
+"Android","sm-g991n",88,"samsung exynos 2100  exynos2100",118483.266667
+"Android","sm-a057f",86,,118397.883333
+"Android","v2207",75,"helio p65",118254.55
+"Android","sm-a145f",65,,118192.45
+"Android","cph2773",79,"qualcomm 662",118148.083333
+"Android","v2419",73,"unisoc t612",118076.966667
+"Android","sm-s918u",95,"qualcomm 8 Gen 2",117996
+"Android","v2029",85,,117857.983333
+"Android","2312crnccl",73,,117742.316667
+"Android","gfy-lx3",73,,117625.616667
+"Android","m2101k6g",89,,117442.783333
+"Android","primo s7 pro",75,"MT6771V/CT, mt6771",117344.233333
+"Android","2404arn45a",75,"mt6768",117277.783333
+"Android","rmx3710",72,"MT6769H, mt6768",117153.766667
+"Android","infinix x6516",67,"unisoc sc9863a",117119.1
+"Android","tecno bf7",67,"MT6761V/WBB, mt6761",117092.85
+"Android","23028ra60l",80,"qualcomm 680",117077.583333
+"Android","redmi note 9 pro max",83,"qualcomm 720g",116979.55
+"Android","tecno ck6n",75,"helio p65",116623.666667
+"Android","sm-a256e",71,,116272.116667
+"Android","cph2619",89,", qcom",116217.766667
+"Android","sm-a235m",82,"qualcomm 680",116174.183333
+"MAC","MacBookAir10,1",-1,,116053.716667
+"Android","24090ra29i",82,"mediatek mt6878  mt6878",115889.783333
+"Android","infinix x665e",73,"helio g25",115785.683333
+"Android","v2404",88,"qualcomm 7 Gen 3",115650.566667
+"Android","v2333",74,"helio p65",115645.15
+"Android","24048rn6cg",71,"unisoc t603",115564.3
+"Android","sm-a045f",73,,115551.5
+"Android","24040rn64y",72,,115400.766667
+"Android","tecno kl4h",74,"helio p35",115375.983333
+"Android","sm-a146u",77,"mediatek 6020",115289.266667
+"Android","23053rn02i",72,", mt6768",115247.05
+"Android","sm-a156m",81,"mediatek mt6835  mt6835",115237.016667
+"iOS","iPhone10,6",86,,115202.466667
+"Android","21091116ai",80,"mediatek 6020",115191.766667
+"Android","sm-f731n",95,"qualcomm 8 Gen 2",115150.583333
+"Android","2209116ag",89,,114857.316667
+"Android","redmi note 8 pro",75,,114626.783333
+"Android","cph2727",80,"qualcomm 662",114550.95
+"Android","sm-a266m",84,"exynos 1280",114521.683333
+"Android","v2109",72,"MT6769V/CU, mt6768",114484.566667
+"Android","moto g45 5g",89,"null, qcom",114390.383333
+"Android","motorola edge 50 fusion",83,"qualcomm 6 Gen 1",114204.25
+"Android","cph2639",81,"mediatek mt6835  mt6835",114149.95
+"Android","tecno kg5j",62,,114078.033333
+"Android","sm-a135f",77,"Samsung A13 EUR OPEN REV02B board based on EXYNOS850, exynos850",113844.633333
+"Android","22120rn86g",69,,113837.666667
+"Android","cph2375",83,"qualcomm 680",113531.9
+"Android","24066pc95i",83,"qualcomm 4 Gen 2",113507.816667
+"Android","infinix x6871",87,"mediatek 8200",113480.55
+"Android","rmx3933",68,,113422.233333
+"Android","sm-s911u",95,"qualcomm 8 Gen 2",113321.25
+"Android","sm-s721w",95,"exynos 2400",113306.35
+"Android","sm-a146b",71,", s5e8535",113239.566667
+"Android","v2520",74,"unisoc t612",112688
+"Android","v2037",72,"MT6769V/CU, mt6768",112399.066667
+"Android","sm-a125f",73,,112119.85
+"Android","22101316g",75,,111888.466667
+"Android","vivo 1935",84,"qualcomm technologies, inc trinket qcom",111849.316667
+"Android","v2507",74,"ums9230_6h10",111770.133333
+"Android","v2206",83,"qualcomm 680",111761.433333
+"Android","i2403",82,"mediatek mt6878  mt6878",111747.416667
+"Android","cph2725",86,", qcom",111621.9
+"Android","infinix x669c",73,"MT6765H, mt6765",111494.866667
+"Android","2201117sg",77,"helio g96",111432.133333
+"Android","cph2119",77,"helio p90",111264.883333
+"iOS","iPhone12,5",-1,,111148.666667
+"Android","sm-s928b",93,", qcom",111123.433333
+"Android","v2236",73,,111114.716667
+"Android","v2238",74,"helio p65",110960.516667
+"Android","22111317i",81,"qualcomm 4 Gen 1",110887.583333
+"Android","v2059",77,"helio g90t",110798.066667
+"Android","dub-lx1",74,"qualcomm 450",110566.016667
+"Android","itel s665l",69,"Unisoc T606",110319.433333
+"Android","infinix x6850",78,"helio g99",110230.966667
+"Android","25028rn03y",76,"spreadtrum ums9230e  serenity",110108.283333
+"Android","redmi 8",82,"Qualcomm 439",109959.616667
+"Android","v2202",80,"mediatek 1080",109837.833333
+"Android","2411drn47i",83,"qualcomm 4 Gen 2",109787.6
+"Android","2201116si",83,"qualcomm 695",109764.15
+"Android","rmx3231",60,,109556.516667
+"Android","rmx3521",83,"qualcomm 680",109548.616667
+"Android","rmx2189",75,"helio p35",109387.216667
+"Android","pixel 9a",84,"google tensor g4  tegu",108998.433333
+"Android","cph2481",75,,108889.983333
+"Android","23053rn02a",72,", mt6768",108818.333333
+"Android","vivo 1906",81,"Qualcomm 439",108564.583333
+"Android","sm-a235f",82,"qualcomm 680",108359.266667
+"Android","v2351",79,"mediatek mt6835  mt6835",108274.016667
+"Android","redmi k20 pro",88,"qualcomm 855",108191.75
+"iOS","iPad8,9",88,,108041.2
+"Android","v2307",85,"Qualcomm 695",108037.766667
+"Android","cph2285",77,"helio p90",108028.283333
+"Android","2201117tg",89,,107980.166667
+"Android","v2110",74,"helio p65",107826.95
+"Android","sm-f741n",96,"qualcomm 8 Gen 3",107744.4
+"Android","sm-a346e",75,", mt6877",107635.816667
+"Android","v2254",75,"helio p35",107561.466667
+"Android","sm-a145m",65,,107525.066667
+"Android","22120rn86g",72,"MT6769V/CZ, mt6768",107358.133333
+"Android","v2534",82,"mediatek mt6878  mt6878",107285.65
+"Android","sm-a217m",81,"samsung exynos 850  exynos850",107235.916667
+"Android","2312dra50g",89,,107188.4
+"Android","v2050",77,"mediatek 800u",106772.25
+"Android","sm-m315f",84,", exynos9611",106742.116667
+"Android","23053rn02l",75,"helio p65",106564.616667
+"Android","sm-e556b",85,"qualcomm 7 gen 1",106557.55
+"Android","cph2365",79,"qualcomm 662",106056.616667
+"Android","23027rad4i",81,"qualcomm 680",106038.35
+"Android","21121119sg",75,"helio p65",106020.133333
+"Android","rmx2020",74,"helio p65",105886.366667
+"Android","sm-s908b",90,"exynos 2200",105715.966667
+"Android","v2249",72,,105439.6
+"Android","25078ra3ea",74,"helio p65",105389.85
+"Android","v2102",81,"Qualcomm 439",105363.916667
+"Android","cph2185",73,"helio p35",105344
+"Android","sm-x216b",83,"qualcomm 695",105186.216667
+"Android","motorola edge 40",83,"mediatek 8020",105181.05
+"Android","cph2239",75,,104982.983333
+"Android","alt-lx3",81,"qualcomm 680",104968.866667
+"Android","24049rn28l",75,"helio p65",104881.366667
+"Android","2312dra50i",85,"qualcomm 7s Gen 2",104579.583333
+"Android","infinix x6816c",73,"unisoc t610",104499.733333
+"Android","infinix x657c",62,,104435.216667
+"Android","23128pc33i",78,"mediatek mt6835  mt6835",104311.8
+"Android","i2219",83,"qualcomm 6 Gen 1",104268.4
+"Android","2409brn2cy",72,,104230.066667
+"Android","rmx3231",80,"octa core rmx3231",104171.616667
+"Android","cph2569",89,"Qualcomm Technologies, Inc SDM782G, qcom",104168.75
+"Android","cph2641",82,"qcom",104086.016667
+"Android","sm-a315g",74,"helio p65",103999.633333
+"Android","sm-a055m",69,,103964.6
+"Android","cph2481",78,"helio g99",103911.966667
+"Android","sm-a047f",77,"null, exynos850",103692
+"Android","itel s665l",72,"Unisoc T606",103677.816667
+"Android","v2234",73,"MT6765V/CB, mt6765",103337.283333
+"Android","2310fpca4g",75,"helio p65",103238.45
+"Android","cph2235",83,"qualcomm 720g",103013.833333
+"Android","sm-m356b",71,", s5e8835",102978.483333
+"Android","le2101",89,"qualcomm 865",102909.833333
+"Android","220233l2i",73,"helio g25",102630.65
+"Android","itel a6610l",65,,102576.033333
+"Android","jdy-lx3p",75,"helio p65",102574.583333
+"Android","v2407",79,"mediatek mt6835  mt6835",102488.55
+"Android","cph2159",89,,102420.05
+"Android","v2310",75,"mt6768",102414.05
+"Android","v2149",70,"helio a25",102292.916667
+"Android","rmo-nx1",83,"qualcomm 695",102218.7
+"Android","t434d",74,"helio p35",101964.583333
+"Android","v2253",78,"mediatek 6020",101828.583333
+"Android","220233l2g",69,"MT6762G, mt6762",101663.616667
+"Android","sm-a066b",79,"mediatek mt6835  mt6835",101607.116667
+"Android","v2126",80,"mediatek 810",101501.9
+"Android","scg33",78,"mediatek mt6835  mt6835",101412.316667
+"Android","v2222",83,"qualcomm 695",101405.183333
+"Android","vivo 1901",69,,101365.916667
+"Android","moto g power (2022)",75,"helio p35",101212.966667
+"Android","cph1923",64,,101072.816667
+"Android","cph2711",89,", qcom",101028.566667
+"Android","24117rn76l",75,,101015.533333
+"Android","tecno km6",78,"helio g99",101011.2
+"Android","cph2495",75,", mt6833",100997.833333
+"Android","v2055",76,"mediatek 700",100924.183333
+"Android","sm-a245f",75,,100824.55
+"Android","cph2349",75,"helio p35",100794.2
+"Android","cph2447",94,"qualcomm 8 Gen 2",100708.666667
+"Android","cph2473",89,"Qualcomm 680",100592.916667
+"iOS","iPhone18,1",66,,100536.066667
+"Android","cph2665",75,", mt6835",100413.35
+"Android","v2240",83,"qualcomm 695",100352.316667
+"Android","v2312",75,"MT6833, mt6833",100260.916667
+"Android","cph2159",83,"qualcomm 720g",100133.033333
+"Android","m2003j15sc",69,,100059.7
+"Android","v2344",65,,99817.45
+"Android","v2503",92,"mediatek 9300",99740.433333
+"Android","rmo-nx3",83,"qualcomm 695",99724.4
+"Android","rmx3941",72,", mt6768",99714.55
+"Android","v2441",81,"qualcomm 680",99617.483333
+"Android","infinix x6528",72,"Unisoc T606",99574.85
+"Android","infinix x669c",75,"helio p35",99491.783333
+"Android","moto g(9) play",81,"qualcomm technologies, inc bengal qcom",99472.483333
+"Android","m2101k7bi",75,"MT6785V/CD, mt6785",99440.8
+"Android","moto g04s",65,,99198.633333
+"Android","moto g(30)",78,"qualcomm 662",99185.05
+"Android","rmx3491",83,"qualcomm 680",99179.416667
+"Android","v2231",84,"mediatek 7200",99023.033333
+"Android","infinix x6880",75,,98992.716667
+"Android","sm-g781v",89,"qualcomm 865",98858.416667
+"Android","pixel 7a",83,"google gs201  lynx",98708.8
+"Android","23129raa4g",87,"qcom",98503.233333
+"Android","v2228",80,"mediatek 1080",98291.65
+"Android","220333ql",86,,98185.05
+"Android","v2322",89,,98007.483333
+"Android","cph2239",75,"MT6765G, mt6765",97964.25
+"Android","cph2461",83,"qualcomm 680",97874.966667
+"Android","vivo 1938",75,"helio p35",97843.35
+"Android","sm-a135m",77,,97800.066667
+"Android","tecno kl6",75,"helio p65",97470.016667
+"Android","sm-a042f",73,"MT6765V/CB, mt6765",97438.266667
+"Android","v2531",65,,97413.383333
+"Android","m2007j20cg",89,,97353.583333
+"Android","21121119sg",69,"MT6769H, mt6768",97098.316667
+"Android","sm-a245m",77,"helio g99",96992.266667
+"Android","m2006c3li",71,"helio g25",96855
+"Android","sm-a042m",75,"helio p35",96738.866667
+"Android","24094rad4i",75,", mt6855",96717.683333
+"Android","infinix x6833b",75,", mt6789",96419.45
+"Android","rmx3630",78,"helio g99",96336.433333
+"Android","sm-a207f",74,"qualcomm 450",96241.116667
+"Android","25028rn03a",68,", serenity",96234.616667
+"Android","23090ra98g",75,,96205.116667
+"Android","25078ra3ea",72,", mt6768",96124.966667
+"Android","rmx3939",68,", ums9230_latte",95847.516667
+"Android","23106rn0da",72,", mt6768",95838.216667
+"Android","23028rn4dg",73,,95772.233333
+"Android","sm-a346e",75,,95661.25
+"Android","dny-nx9",88,"qualcomm 7 Gen 3",95641.916667
+"Android","sm-a047f",77,,95616.533333
+"Android","cph2625",82,"mediatek mt6878  mt6878",95369.833333
+"Android","cph2375",89,,95330.3
+"Android","cph2113",89,,95255.433333
+"Android","infinix x6837",75,,95253.416667
+"Android","sm-g998b",88,"samsung exynos 2100  exynos2100",95201.916667
+"Android","22101320g",85,"qualcomm 778g",95149.633333
+"Android","sm-a165f",73,,95138.15
+"Android","rmx3840",85,"qualcomm 7s Gen 2",95045.766667
+"Android","sm-a145r",74,"helio p65",95024.666667
+"Android","lly-lx3",83,"qualcomm 680",94928.2
+"Android","tecno kg5k",65,,94801.45
+"Android","v2315",75,"mediatek 700",94778.383333
+"Android","sm-a546e",71,", s5e8835",94747.183333
+"Android","infinix x6855",75,,94740.966667
+"Android","2201117tl",82,"qualcomm 680",94740.083333
+"Android","24117rn76g",76,"mt6789",94624.583333
+"Android","v2333",75,"mt6768",94584.483333
+"Android","sm-a217f",77,", exynos850",94481.683333
+"Android","rmx3933",72,"ums9230_latte",94479.433333
+"Android","23021raaeg",89,", qcom",94449.733333
+"Android","v2207",69,,94444.55
+"Android","v2037",74,"helio p65",94353.616667
+"Android","cph2643",75,", mt6877",94185.65
+"Android","redmi note 7",86,"Qualcomm 660",94088.116667
+"Android","v2419",68,,93950.666667
+"Android","v2520",68,", ums9230_6h10",93774.983333
+"Android","rmx2185",73,"helio p35",93772.033333
+"Android","cph2661",90,"qualcomm 7+ Gen 3",93681.433333
+"Android","v2037",75,"helio p65",93654.816667
+"Android","redmi note 9 pro",89,,93648.116667
+"Android","23028rncag",74,"helio p35",93638.75
+"Android","cph1911",75,"helio p60",93584.933333
+"Android","v2027",82,,93521.05
+"Android","tecno kj7",78,"helio g99",93487.65
+"Android","v2333",69,,93355.183333
+"Android","tb305fu",77,"mediatek mt8786v/n  mt8786",93320.483333
+"Android","24116raccg",75,"null, mt6789",93261.3
+"Android","infinix x665b",69,"helio a20",93147.85
+"Android","alt-lx2",81,"qualcomm 680",93091.3
+"Android","sm-a146m",83,"exynos 1330",93070.933333
+"Android","eb2101",82,"qualcomm 750g",93002.55
+"Android","infinix x6851",82,"mediatek 7020",92870.85
+"Android","cph2667",75,"null, mt6835",92557.1
+"Android","sm-a366b",86,"qti sm6475  qcom",92470.783333
+"Android","vivo 1938",73,"MT6765V/CB, mt6765",92248.466667
+"iOS","iPhone10,4",86,,92237.2
+"Android","tecno km4k",74,"helio p65",92170.5
+"Android","sm-a346e",82,"mediatek 1080",92170.316667
+"Android","cph2711",89,,91901.316667
+"iOS","iPhone16,1",66,,91880.083333
+"Android","2411drn47i",89,", qcom",91641.166667
+"Android","rmx3999",81,"mediatek mt6835  mt6835",91605.966667
+"Android","rmx2185",68,"MT6765G, mt6765",91559.366667
+"Android","sm-a145p",74,"helio p65",91527.3
+"Android","sm-s936n",94,"qti sm8750  qcom",91471.9
+"Android","v2347",90,"mediatek 9200",91456.333333
+"Android","sm-x115",77,"helio g99",91439.316667
+"Android","itel c671l",79,"spreadtrum ums9230e  ums9230_c671l",91316.666667
+"Android","redmi note 7 pro",80,"qualcomm 675",91207.116667
+"Android","sm-a356b",85,"exynos 1380",90863.316667
+"Android","sm-m515f",82,"qualcomm 730",90847.183333
+"Android","tecno kj5",80,"mediatek mt6769 mt6769 mt6769",90629.366667
+"Android","v2338",89,", qcom",90520.65
+"Android","2312draabg",80,"mediatek 6020",90437.066667
+"Android","sm-e236b",82,"qualcomm 750g",90328.7
+"Android","moto g24",69,,90318.15
+"Android","cph2613",89,", qcom",90232.783333
+"Android","sm-m017f",69,"MT6762V/WB, mt6762",90227.05
+"Android","sm-m127g",84,"samsung exynos 850  exynos850",90225.2
+"Android","sm-a256b",84,"exynos 1280",90020.05
+"Android","24044rn32l",65,,89866.15
+"Android","rmx3997",75,", mt6835",89540.666667
+"Android","v2332",69,", mt6768",89445.866667
+"Android","m2006c3lii",73,"helio g25",89424.433333
+"Android","a015",82,"mediatek mt6878  mt6878",89415.833333
+"iOS","iPhone13,1",-1,,89412.316667
+"Android","tecno bg7",73,,89394.433333
+"iOS","iPhone14,8",-1,,89123.65
+"Android","tecno ki5k",72,"Unisoc T606",88948.916667
+"Android","cph2573",96,"qualcomm 8 Gen 3",88847.116667
+"Android","poco m2 pro",83,"qualcomm 720g",88807.15
+"MAC","Mac14,2",-1,,88702.383333
+"Android","23021raaeg",89,,88590.55
+"Android","cph2691",96,"qualcomm 8 Gen 3",88487.2
+"Android","rmx3782",75,", mt6835",88484.45
+"Android","sm-a366e",89,", qcom",88442.133333
+"Android","24048rn6cg",65,,88228.833333
+"Android","2303era42l",77,"helio g96",88169.75
+"Android","crt-lx3",75,"helio p65",88139.05
+"Android","infinix x657b",68,"helio a20",88085.233333
+"Android","ali-nx1",89,,88079.95
+"Android","sm-a217m",77,,88062.116667
+"Android","vivo 1935",85,,87913.066667
+"Android","23027rad4i",89,", qcom",87906.85
+"Android","sm-a205f",80,"exynos7884b",87768.1
+"Android","24116rnc1i",86,", qcom",87680.333333
+"Android","cph2381",89,,87622.316667
+"Android","cph2577",72,", mt6768",87620.85
+"Android","sm-f966b",94,"qti sm8750  qcom",87500.95
+"Android","vivo y17",73,,87467.166667
+"Android","v2029",80,"qualcomm sm4250 qualcomm technologies, inc bengal qcom",87424.366667
+"Android","2201116pg",83,"qualcomm 695",87282.85
+"Android","sm-a325f",72,"MT6769V/CT, mt6769t",87261.7
+"Android","rmx3842",83,"qualcomm 6 Gen 1",87250.266667
+"Android","sm-s921u",96,"qualcomm 8 Gen 3",87202.183333
+"Android","tmrv07p5g",83,"qualcomm 6 Gen 1",87166.05
+"Android","2303cra44a",77,"helio g96",86956.983333
+"Android","sm-a326u",79,"mediatek 800U 5G",86907.416667
+"Android","rmx3268",69,"Unisoc T610",86581.05
+"Android","24094rad4g",75,,86491.366667
+"Android","sm-s901e",92,"qualcomm 8 gen 1",86444.666667
+"Android","cph2591",72,"mt6768",86251.95
+"Android","sm-m215f",82,"samsung exynos 9611  exynos9611",86201.583333
+"Android","rmx3511",65,,86145.416667
+"Android","tecno kj7",75,"null, mt6789",86131.016667
+"Android","infinix x665b",67,"MT6761V/WBB, mt6761",86001.083333
+"Android","tecno bg6m",60,,85961.216667
+"Android","v2342",81,"qualcomm 680",85888.55
+"Android","rmx3511",69,"Unisoc T616",85822.683333
+"Android","rmx3945",79,"mediatek mt6835  mt6835",85793.9
+"Android","25028rn03a",79,"spreadtrum ums9230e  serenity",85780.466667
+"Android","cph2251",80,"mediatek 1080",85771.433333
+"Android","innova10",73,"G35, mt6765",85722.966667
+"Android","23028ra60l",86,,85644.816667
+"Android","rmx2151",86,"mediatek 1200",85615.566667
+"iOS","iPhone17,1",66,,85526.75
+"Android","cph2727",89,", qcom",85268.066667
+"Android","pixel 6a",83,"google tensor  bluejay",85183.016667
+"Android","sm-a165f",75,"null, mt6789",85090.283333
+"Android","24115ra8ei",86,"qti sm7635  qcom",85037.25
+"Android","cph2421",72,"helio p22",85026.366667
+"Android","infinix x6728",72,,84943.883333
+"Android","2311drn14i",74,"helio p65",84814.983333
+"Android","infinix x6838",81,"mediatek mt6835  mt6835",84735.083333
+"Android","cph2059",84,"qualcomm technologies, inc sdm665 qcom",84393.366667
+"Android","cph2579",75,"mt6768",84317.65
+"Android","sm-f966n",94,"qti sm8750  qcom",84308.9
+"Android","sm-a155m",75,,84272.05
+"Android","cph1923",68,"helio a25",84109.55
+"Android","redmi note 7",80,"qualcomm 660",83912.55
+"Android","eli-nx9",88,"qualcomm 7 Gen 3",83901.866667
+"Android","tecno kl7",78,"helio g99",83794.083333
+"Android","pixel 7",83,"google gs201  panther",83788.933333
+"Android","symphony z60",69,"Unisoc T606",83759.25
+"Android","v2430",65,,83743.233333
+"Android","infinix x6725b",65,", ums9230_X6725B",83654.5
+"Android","cph1989",75,,83602.25
+"Android","moto g34 5g",82,"qualcomm 695",83566.583333
+"Android","rmx3910",72,", mt6768",83475.366667
+"Android","rmx3762",74,"unisoc t612",83463.333333
+"Android","a001",82,"mediatek mt6878  mt6878",83389.683333
+"Android","cph2687",81,"qualcomm 680",83149.416667
+"Android","infinix x6528",65,,83148.6
+"Android","sm-a032m",67,"unisoc sc9863a",83127.166667
+"iOS","iPhone15,4",66,,83111.966667
+"Android","itel s665l",72,"unisoc t606",83052.983333
+"Android","sm-a127m",81,"samsung exynos 850  exynos850",82974.85
+"Android","23076pc4bi",83,"qualcomm 4 Gen 2",82809.35
+"Android","rmx2189",73,"MT6765G, mt6765",82701
+"Android","infinix x6853",75,,82661.35
+"Android","rmx3780",75,", mt6835",82454.083333
+"Android","tecno bg6",72,"Unisoc T606",82428.866667
+"Android","cph2209",75,,82209.15
+"Android","22120rn86i",74,"helio p65",82191.216667
+"Android","rmx3782",78,"mediatek mt6835  mt6835",82103.733333
+"Android","rmx5070",85,"qti sm6650  qcom",82102.316667
+"Android","innova30",72,"Unisoc T616",82055.483333
+"Android","v2205",89,"Qualcomm Technologies, Inc KHAJE, qcom",81990.6
+"Android","v2142",76,"mediatek 700",81881.25
+"Android","rmx3286",73,"MT6781V/CDZAMB-H, mt6781",81858.716667
+"iOS","iPhone12,3",-1,,81803.683333
+"Android","2201117ti",83,"qualcomm 680",81802
+"Android","rmx3998",75,", mt6835",81782.366667
+"Android","vivo 1938",73,,81634.6
+"Windows","10TYS1T000",78,"Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz",81573.033333
+"Android","redmi note 7 pro",85,"Qualcomm 675",81453.1
+"iOS","iPhone12,8",-1,,81386.516667
+"Android","infinix x6835b",76,"helio p35",81386.383333
+"Android","sm-m127f",77,,81362.033333
+"Android","sm-a325n",74,"helio g70",81332.483333
+"Android","ac2001",84,"qualcomm 765g",81306.366667
+"Android","sm-m115f",82,"Qualcomm 450",81258.233333
+"Android","220333qag",86,,81218.4
+"Android","2201116sg",83,"qualcomm 695",81149.866667
+"Android","sm-m127g",77,", exynos850",81138.566667
+"Android","sm-a047f",77,"Samsung A04S EUR OPEN REV03C board based on EXYNOS850, exynos850",80938.85
+"Android","infinix x6528b",72,"unisoc t606",80791.15
+"Android","sm-a176b",71,", s5e8535",80748.516667
+"Android","sm-a315f",74,"helio p65",80732.833333
+"Android","vivo 2015",68,"MT6765V/CB, mt6765",80575.233333
+"Android","moto g14",74,"unisoc t616",80561.733333
+"Android","cph2639",75,,80530.5
+"Android","2201117tl",86,,80488.35
+"Android","infinix x6532",72,"mt6768",80401.066667
+"Android","v2110",69,,80183.783333
+"Android","rmx3231",65,"Octa Core, RMX3231",80071.516667
+"Android","infinix x6528b",68,,80021.166667
+"Android","sm-a057m",83,"qualcomm 680",79974.266667
+"Android","sm-a135f",84,"samsung exynos 850 samsung a13 eur open rev02b board based on exynos850 exynos850",79822.216667
+"Android","rmx5056",82,"mediatek mt6878  mt6878",79791.5
+"Android","tecno kj5",72,,79720.3
+"iOS","iPad13,17",92,,79624.566667
+"Android","vivo 1906",82,,79561.566667
+"Android","sm-g991b",88,"samsung exynos 2100  exynos2100",79546.783333
+"Android","sm-s266v",85,"exynos 1380",79532.05
+"Android","sm-a515f",84,,79524.683333
+"Android","clk-lx2",83,"qualcomm 680",79356.933333
+"Android","25028rn03a",72,"serenity",79272.583333
+"Android","tecno ke5",62,,79268.816667
+"Android","sm-a736b",89,,79132.466667
+"Android","cph2637",75,,79108.35
+"Android","sm-s906e",92,"qualcomm 8 gen 1",79002.133333
+"Android","cph2699",83,"qualcomm 6 Gen 1",79001.566667
+"Android","2201117sg",75,,78960.633333
+"Android","sm-a715f",89,,78947.766667
+"Android","cph2325",76,"helio p35",78919.2
+"Android","sm-s916b",95,"qualcomm 8 Gen 2",78879.666667
+"Android","infinix x6728",74,"helio p65",78849.133333
+"Android","tecno km4",72,"ums9230_KM4_go",78796.766667
+"Android","sm-a566e",71,,78787.683333
+"Android","23100rn82l",72,,78752.433333
+"Android","tecno lh7n",78,"helio g99",78712.666667
+"Android","sm-a566e",71,", s5e8855",78682.183333
+"Android","rea-nx9",86,"qualcomm 7 gen 1",78681.35
+"Android","2312bpc51h",74,"helio p35",78518.716667
+"Android","cph2423",75,", mt6895",78494.733333
+"Android","v2432",81,"mediatek mt6835  mt6835",78404
+"Android","rmx3762",73,"unisoc t612",78396.35
+"Android","v2422",83,"qualcomm 695",78362.45
+"Android","23053rn02i",72,,78312.6
+"Android","itel a669l",69,"unisoc t603",78125.333333
+"Android","nic-lx2",72,"MT6769V/CB, mt6768",78100.616667
+"Android","rmx3834",65,", ums9230_hulk",78086.2
+"Android","v2158",86,"mediatek 1300",78008.95
+"Android","sm-a045m",75,"helio p35",77750.7
+"Android","v2234",75,"helio p35",77744.75
+"Android","m2101k7bny",75,,77660.283333
+"Android","rmx5020",72,", mt6768",77654.533333
+"Android","22120rn86i",69,"MT6769V/CZ, mt6768",77633.833333
+"Android","jdy-lx3",75,"helio p65",77598.35
+"Android","sm-a165m",73,,77454.016667
+"Android","m2004j19pi",72,"MT6769T, mt6768",77437.166667
+"Android","v2116",77,"helio g96",77415
+"Android","dub-lx1",82,,77407.283333
+"Android","tecno cm7",82,"mediatek mt6878  mt6878",77345.683333
+"Android","rmx3939",68,,77325.233333
+"Android","rmx3268",73,"unisoc t610",77284.233333
+"Android","23106rn0da",72,"MT6769V/CZ, mt6768",77134.433333
+"Android","sm-a175f",78,"helio g99",77121.466667
+"Android","sm-g965u",87,"qualcomm 845",77012.416667
+"Android","2412dpc0ag",79,,76888.833333
+"Android","v2333",72,,76876.416667
+"Android","sm-a725f",83,"qualcomm 720g",76792.616667
+"Android","rmx2180",75,"helio p35",76783.466667
+"Android","2201117tg",82,"qualcomm 680",76738.816667
+"Android","sm-s906n",92,"qualcomm 8 gen 1",76662.966667
+"Android","sm-a155m",73,,76519.25
+"Android","tecno ci6",74,"helio g85",76509.55
+"Android","infinix x6525d",69,"unisoc t606",76470.2
+"Android","cph2621",83,"qualcomm 695",76379.333333
+"Android","tecno bg7",75,"helio p35",76243.4
+"Android","rmx3990",89,", qcom",76217.183333
+"Android","v2060",81,"qualcomm 480",76161.033333
+"Android","m2007j20cg",83,"qualcomm 730",76153.85
+"Android","cph2385",75,"helio p35",76109.4
+"Android","m2003j15sc",72,"MT6769Z, mt6768",76103.616667
+"Android","rmx3430",69,"MT6769V/CZ, mt6768",76062.633333
+"Android","24044rn32l",71,"unisoc t603",76059.883333
+"Android","2201116tg",75,,75849.4
+"Android","sm-a325f",74,"helio g70",75833.933333
+"Android","sm-a125m",75,"helio p35",75778.25
+"Android","sm-a305f",80,"exynos7904",75747.633333
+"iOS","iPad6,12",82,,75588.75
+"Android","23028rncag",73,"MT6765V/XBA, mt6765",75554.483333
+"Android","v2146",83,"qualcomm 680",75524.116667
+"Android","24094rad4g",81,"mediatek 7020",75405.033333
+"Android","cph2743",83,"qualcomm 6 Gen 1",75370.95
+"Android","itel a6610l",69,"unisoc sc9863",75347.9
+"Android","cph2359",86,"mediatek 1300",75035.3
+"Android","2212arnc4l",74,"helio p65",75009.8
+"Android","m2103k19i",77,"mediatek 6020",75000.933333
+"Android","v2319",87,"mediatek 8200",74972.05
+"Android","sm-a205f",77,,74930.016667
+"Android","2303cra44a",75,,74912.633333
+"Android","cph2695",75,,74868.7
+"Android","v2322",83,"qualcomm 680",74852.75
+"Android","v2303",89,"Qualcomm 695",74841.216667
+"Android","v2027",80,"Qualcomm Technologies, Inc BENGAL, qcom",74829.533333
+"Android","b131dl",69,"helio a20",74821.6
+"Android","v2310",72,"mt6768",74766.2
+"Android","sm-a225f",75,"helio g70",74740.316667
+"Android","v2321",75,", mt6886",74712.216667
+"Android","24108pce2i",83,"qualcomm 4 Gen 2",74657.566667
+"Android","infinix x693",75,"helio g85",74552.333333
+"Android","2410fpcc5g",72,,74502.15
+"Android","tecno cm5",78,"helio g99",74288.15
+"Android","2406apnfag",89,"mediatek 8300",74227.216667
+"Android","cph2665",75,,74111.266667
+"Android","v2109",72,,74065.466667
+"Android","cph2603",75,,74012.433333
+"Android","cph2343",83,"qualcomm 695",73895.516667
+"Android","abr-nx1",81,"mediatek 7020",73857.366667
+"Android","m2101k6i",83,"qualcomm 730",73778.216667
+"Android","v2205",89,,73679.25
+"Android","cph2579",69,,73640.766667
+"Android","infinix x6525b",73,", mt6765",73626.283333
+"Android","a059p",86,"qti sm7635  qcom",73561.183333
+"Android","cph2565",89,", qcom",73536.866667
+"Android","vivo 2015",73,"helio p35",73472.533333
+"Android","moto g55 5g",81,"mediatek 7020",73455.666667
+"Android","23100rn82l",69,,73428.433333
+"Android","infinix x6525d",60,,73350.8
+"Android","infinix x665b",67,,73143.783333
+"Android","sm-f956b",96,"qualcomm 8 Gen 3",73083.233333
+"Android","rmx3261",72,"Unisoc T610",73051.866667
+"Android","2201117tg",86,"Qualcomm 680",73034.766667
+"Android","sm-a035f",65,"Unisoc T606",73006.6
+"Android","m2006c3lg",69,,72987.016667
+"Android","cph2631",89,", qcom",72984.35
+"Android","itel s665l",65,,72918.183333
+"Android","211033mi",75,"helio p35",72854.516667
+"Android","rmx3785",75,,72849.416667
+"Android","220333qag",83,"Qualcomm 680",72764.983333
+"Android","infinix x6531",72,", mt6768",72734.816667
+"Android","23128pc33i",75,", mt6835",72700.916667
+"Android","sm-g930f",84,"samsungexynos8890",72665.166667
+"Android","v2058",72,"MT6769V/CU, mt6768",72642.016667
+"Android","23128pc33i",81,"mediatek mt6835  mt6835",72563.516667
+"iOS","iPad15,8",96,,72408.933333
+"iOS","iPhone18,2",66,,72144.05
+"Android","v2348",89,", qcom",72111.5
+"Android","v2251",87,"mediatek 8200",72103.516667
+"Android","v2152",74,"helio p65",72065.6
+"Android","infinix x6882",75,", mt6789",72004.2
+"Android","tecno cm6",75,", mt6789",71910.766667
+"Android","vivo 1726",69,"MT6762V/CB, mt6762",71905.533333
+"iOS","iPhone9,1",84,,71878.083333
+"Android","jkm-lx1",81,,71755.95
+"Android","sm-a515f",82,"samsung exynos 9611  exynos9611",71710.233333
+"Android","sm-m127f",81,"samsung exynos 850  exynos850",71639.433333
+"Android","cph2669",89,,71546.816667
+"Android","sm-a225f",74,"helio g70",71495.333333
+"Android","redmi note 9s",89,,71475.716667
+"Android","cph2467",89,,71459.133333
+"Android","infinix x6816c",69,"Unisoc T610",71388.9
+"Android","23053rn02y",75,"helio p65",71371.583333
+"Android","sm-m336bu",84,"exynos 1280",71203.083333
+"Android","v2043",73,,71103.916667
+"Android","23106rn0da",69,,71097.666667
+"Android","infinix x6858",75,", mt6789",71093.533333
+"Android","cph2717",89,"mediatek 8300",71062.216667
+"Android","v2142",75,"MT6833V/ZA, mt6833",71002.683333
+"Android","rmx3761",73,"unisoc t612",70991.416667
+"Android","rmx3627",73,"unisoc t612",70975.116667
+"Android","cph1937",85,,70847.016667
+"Android","v2424",81,"qualcomm 680",70824.833333
+"Android","sm-a032m",60,,70812.416667
+"Android","rmx3261",65,,70749.7
+"Android","abr-lx3",81,"qualcomm 680",70748.033333
+"Android","m2101k7bg",77,"helio g90t",70569.05
+"Android","i2306",81,"mediatek mt6835  mt6835",70541.216667
+"Android","moto g54 5g",75,", mt6855",70418.216667
+"Android","v2415",86,"mediatek mt6991  mt6991",70416.516667
+"Android","v2338",82,"qualcomm 6 Gen 1",70362.15
+"Android","cph1911",73,,70306.166667
+"Android","sm-a528b",89,,70261.95
+"Android","moto g54 5g",75,,70252.25
+"Android","rmx3933",74,"unisoc t612",70237.433333
+"Android","23053rn02a",72,"MT6769H, mt6768",70027.333333
+"Android","tecno kl4",72,"ums9230_KL4_go",69937.083333
+"Android","itel a667l",69,"unisoc t603",69879.166667
+"Android","sm-s721b",76,,69708.883333
+"Android","rmx5000",82,"mediatek mt6878  mt6878",69707.866667
+"Android","v2131",82,"qualcomm 680",69629.1
+"Android","24116pcc1i",86,", qcom",69591.316667
+"Android","sm-m146b",84,"exynos 1330",69556.566667
+"Android","sm-s936b",94,"qti sm8750  qcom",69452.55
+"Android","cph2213",77,"mediatek 800u",69450.55
+"Android","v2247",89,,69416.8
+"Android","sm-s928u",93,", qcom",69403.533333
+"Android","vivo 1907",74,"helio p65",69367.316667
+"Android","moto e15",72,"helio p65",69303.583333
+"Android","v2420",75,,69190.25
+"Android","sm-a556b",88,"exynos 1480",69152.1
+"Android","21081111rg",86,"mediatek 1300",69149.316667
+"Android","moto g32",83,"qualcomm 680",69142.8
+"Android","moto g stylus (2022)",75,"helio p65",69081.783333
+"Android","tecno kj6",75,,69080.616667
+"Android","infinix x657c",67,"helio a20",69069.5
+"Android","infinix x6827",77,"helio g96",69050.066667
+"Android","rmx3511",72,"Unisoc T616",68996.516667
+"Android","sm-s918b",93,", qcom",68867.066667
+"Android","sm-a217f",84,"samsung exynos 850  exynos850",68847.9
+"Android","rmx3760",68,", ums9230_hulk",68742.133333
+"Android","v2239",80,"mediatek 1080",68687.5
+"Android","infinix x6531b",74,"helio p65",68614.75
+"Android","infinix x6812",80,"mt6769h mt6769",68588.383333
+"Android","moto g04",71,"unisoc t606",68557.016667
+"Android","sm-f711n",89,"qualcomm 888",68475.066667
+"Android","sm-a105f",72,,68472.283333
+"Android","v2443",89,", qcom",68459.883333
+"Android","infinix x6511b",67,"unisoc sc9863a",68419.55
+"Android","infinix x6725c",68,,68412.216667
+"Android","vivo 1951",89,"null, qcom",68408.55
+"Android","sm-a107f",68,"helio a25",68408.533333
+"Android","cph2185",68,,68399.45
+"Android","m2004j19pi",75,"helio p65",68286.583333
+"Android","v2025",83,"qualcomm 720g",68266.066667
+"Android","infinix x6728",75,"mt6768",68259.6
+"Android","ali-nx3",83,"qualcomm 6 Gen 1",68212.15
+"Android","sm-m127g",80,", exynos850",68197.883333
+"Android","rmx3501",69,"Unisoc T612",68168.683333
+"Android","22101316ug",82,"mediatek 1080",68163.583333
+"Android","infinix x6831",72,"MT6769H, mt6769",68159.316667
+"Android","v2252",75,"helio p35",68120.416667
+"Android","redmi note 7 pro",79,"qualcomm 675",68114.983333
+"Android","sm-a035m",65,,68039.083333
+"iOS","iPhone14,4",-1,,67915.55
+"Android","sm-e225f",72,"MT6769V/CT, mt6769t",67908.433333
+"Android","23026rn54g",68,,67868.383333
+"Android","v2029",83,"qualcomm sm4250 qualcomm technologies, inc bengal qcom",67861.483333
+"Android","sm-e156b",75,", mt6835",67829.716667
+"Android","22120rn86g",69,"MT6769V/CZ, mt6768",67804.133333
+"Android","v2036",84,"qualcomm sm4250 qualcomm technologies, inc bengal qcom",67791.083333
+"Android","tecno ck6",75,"helio p65",67787.45
+"Android","sm-g780f",87,"samsung exynos 990  exynos990",67753.466667
+"Android","cph2681",73,", mt6835",67738.783333
+"iOS","iPad14,6",94,,67695.116667
+"Android","itel s686ln",81,"spreadtrum ums9230s  ums9230_s686lnv",67644.066667
+"Android","pixel 9",84,"google tensor g4  tokay",67622.1
+"Android","moto g23",74,"helio p65",67618.816667
+"Android","cph1931",81,"qualcomm technologies, inc sdm665 qcom",67594.633333
+"Android","sm-m166p",75,"null, mt6835",67452.6
+"Android","v2117",77,"helio g96",67426.233333
+"Android","rmx3501",73,"unisoc t612",67396.216667
+"Android","poco m2 pro",89,"Qualcomm 720G",67391.133333
+"Android","tecno ki5q",76,"helio p35",67372.333333
+"Android","cph2505",89,"Qualcomm 695",67370.233333
+"Android","tecno ck6n",72,", mt6768",67360.866667
+"Android","redmi note 7",86,,67226.9
+"Android","infinix x662",69,,67226.083333
+"Android","redmi note 9s",82,"qualcomm 720g",67225.616667
+"Android","cph2693",75,", mt6835",67206.333333
+"Android","sm-s928u1",96,"qualcomm 8 Gen 3",67049.05
+"iOS","iPhone15,2",66,,66872.2
+"Android","rmx3471",83,"qualcomm 695",66853.133333
+"iOS","iPad8,11",88,,66718.45
+"Android","sm-a245n",77,"helio g99",66677.25
+"iOS","iPhone9,2",84,,66630.583333
+"Android","23129rn51x",73,"mt6765",66595.633333
+"Android","m2006c3lii",69,"MT6762G, mt6762",66536.05
+"Android","2409brn2cy",74,"helio p65",66521.083333
+"Android","sm-a107m",64,,66327.516667
+"Android","rmx5020",75,"helio p65",66302.166667
+"Android","rmx3761",74,"unisoc t612",66295.283333
+"Android","tecno kj7",75,,66153.216667
+"Android","cph2525",85,"qualcomm 778g",66115.9
+"Android","cph2603",75,", mt6877",66025.066667
+"Android","2310fpca4i",74,"helio p65",66007.683333
+"Android","sm-e135f",81,"samsung exynos 850 samsung f13 swa open 00 board based on exynos850 exynos850",65927.75
+"Android","cph2579",69,", mt6768",65854.916667
+"Android","sm-n960f",87,"samsungexynos9810",65844.416667
+"Android","cph2095",85,,65820.883333
+"iOS","iPhone8,1",82,,65753.633333
+"Android","220733sfg",62,,65739.816667
+"Android","v2130",75,"MT6877V/TZA, mt6877",65717.85
+"Android","vivo 1811",82,"Qualcomm 439",65676.25
+"Android","cph2527",89,"Qualcomm 695",65662.383333
+"Android","pixel 7 pro",83,"google gs201  cheetah",65583.6
+"Android","infinix x6731b",78,"helio g99",65534.283333
+"Android","rmx3939",74,"ums9230_latte",65470.933333
+"Android","v2434",87,"qcom",65335.85
+"Android","v2506",89,", qcom",65323.65
+"Android","2312draabg",75,,65288.2
+"Android","v2314",83,"qualcomm 695",65189.133333
+"Android","rmx5106",82,"mediatek mt6878  mt6878",65185.883333
+"Android","rmx3990",85,"qualcomm 7s Gen 2",65153.633333
+"Android","moto g52",83,"qualcomm 680",65134.033333
+"Android","motorola edge 50 neo",82,"mediatek mt6878  mt6878",65100.15
+"Android","rmx3241",76,"mediatek 700",65081.466667
+"Android","itel s665l",68,,65052.483333
+"Android","24117rn76e",78,"helio g99",65048.616667
+"Android","sm-a235f",89,,65026.366667
+"Android","cph2607",87,"mediatek 8200",65013.75
+"Android","v2355",89,", qcom",64984.366667
+"Android","v2031",84,"qualcomm sm4250 qualcomm technologies, inc bengal qcom",64967.35
+"Android","redmi note 9 pro",86,"Qualcomm 720G",64950.516667
+"Android","cph2213",75,"MT6853V/TNZA, mt6853",64940.283333
+"Android","rmx3997",75,,64866.033333
+"Android","220233l2g",69,,64851.716667
+"Android","sm-m346b",84,"exynos 1280",64728.616667
+"Android","crt-lx2",75,"helio p65",64701.783333
+"Android","rmx2193",74,"helio p65",64699.05
+"Android","moto g play (2021)",80,"qualcomm technologies, inc bengal qcom",64644.333333
+"Android","v2333",69,", mt6768",64630.133333
+"Android","rmx3944",75,", mt6835",64601.8
+"Android","2201117si",77,"helio g96",64370.6
+"Android","tecno kl8",81,"mediatek mt6835  mt6835",64286.783333
+"Android","infinix x6831",72,,64262.733333
+"Android","redmi note 9s",83,"qualcomm 720g",64231.7
+"Android","23076rn4bi",82,"qualcomm 4 Gen 2",64191.35
+"Android","v2246",75,", mt6886",64159.183333
+"Android","infinix x6817",75,"helio g85",64140
+"Android","rmx5303",74,"ums9230_dhaka",64104.216667
+"Android","sm-a135f",80,,64096.05
+"Android","sm-s721u",95,"exynos 2400",64093.333333
+"Android","sm-a166p",75,,64049.4
+"Android","sm-g986b",87,"samsung exynos 990  exynos990",64044
+"iOS","iPhone9,4",84,,63945.483333
+"iOS","iPhone14,6",-1,,63913.7
+"Android","22111317i",85,", qcom",63882.833333
+"Android","v2248",75,,63882.1
+"Android","cph2461",89,,63818.633333
+"Android","cph2373",83,"qualcomm 680",63803.183333
+"Android","nexg n74",65,", ums9230_6h10",63728.116667
+"Android","tecno ck7n",78,"helio g99",63696.45
+"Android","cph2751",75,", mt6835",63674.6
+"Android","moto e20",70,"unisoc ums9230 ums9230_4h10_go",63660.933333
+"Android","rmx3686",82,"mediatek 1080",63644.633333
+"Android","infinix x6850",75,,63570.633333
+"Android","abr-nx3",81,"mediatek 7020",63525.966667
+"MAC","Mac15,13",85,,63525.666667
+"Android","infinix x657c",66,"helio a20",63449.183333
+"Android","rmx3195",72,"MT6769V/CZ, mt6768",63443.95
+"Android","vivo 1904",69,"MT6762V/WR, mt6762",63332.233333
+"Android","gfy-lx2",74,"helio p35",63330.066667
+"Android","infinix x6711",80,"mediatek 6020",63291.866667
+"Android","rmx1911",82,,63191.4
+"Android","cph2705",75,", mt6878",63162.65
+"Android","tecno kj5",77,"mediatek mt6769 mt6769 mt6769",63112.433333
+"Android","rmx3151",76,"helio g96",63110.05
+"Android","sm-a266b",71,,63107.2
+"Android","poco x2",82,"qualcomm 730",63062.883333
+"Android","cph2605",77,"mediatek 6020",63060.033333
+"Android","moto g34 5g",89,", qcom",62931.75
+"Android","moto g85 5g",89,,62888.716667
+"Android","2201117pi",77,"helio g96",62882.283333
+"Android","cph2763",82,"mediatek mt6878  mt6878",62850.483333
+"Android","sm-a146b",68,", s5e8535",62778.333333
+"Android","sm-a105f",74,"exynos7884b",62742.816667
+"Android","vivo 1919",80,"qualcomm 675",62733
+"Android","m2101k7bg",75,,62665.433333
+"Android","cph2113",83,"qualcomm 720g",62665.2
+"Android","wdy-lx3",74,"helio p35",62636.866667
+"Android","sm-a125f",76,"helio p35",62630.633333
+"Android","cph2495",75,,62549.333333
+"Android","itel a667lp",65,,62541.35
+"Android","sm-a107f",64,,62498.65
+"Android","eb2101",89,"Qualcomm Technologies, Inc SDM750G, qcom",62409.866667
+"Android","sm-f946b",95,"qualcomm 8 Gen 2",62402.9
+"Android","moto g22",73,,62391.333333
+"Android","sm-a235f",89,"Qualcomm Technologies, Inc KHAJE, qcom",62364.966667
+"Android","cph2001",76,"helio p60",62361.666667
+"Android","sm-t295",73,"Qualcomm 429",62280.016667
+"Android","v2126",75,"MT6833V/PNZA, mt6833",62228.95
+"Android","v2440",81,"mediatek mt6835  mt6835",62216.183333
+"Android","tecno ke5k",70,"helio a25",62152.2
+"Android","z60 plus",75,"unisoc t616",62150.066667
+"Android","v2338",86,", qcom",62142.416667
+"Android","cph2325",73,,61951.35
+"Android","sm-a165m",75,"null, mt6789",61934.433333
+"Android","v2303",89,,61912.05
+"Android","m2101k7bi",75,,61625.816667
+"Android","220733sfg",67,"helio a20",61522.65
+"Android","sm-a025f",74,"qualcomm 450",61504
+"Android","25057rn09i",83,"qualcomm 695",61413.083333
+"Android","cph2669",89,", qcom",61406.533333
+"Android","v2407",73,", mt6835",61325.666667
+"Android","rmx3063",68,"MT6765G, mt6765",61275.883333
+"iOS","iPad14,4",94,,61237.516667
+"Android","tecno kh6",75,"helio p35",61169.183333
+"iOS","iPhone15,5",-1,,61147.383333
+"Android","infinix x6855",75,", mt6789",61079.45
+"Android","dn2101",75,"MT6893Z_A/CZA, mt6893",60811.466667
+"Android","sm-x200",65,,60797.6
+"Android","vivo 2018",86,"qualcomm sm7250 qualcomm technologies, inc sm7250 qcom",60795.616667
+"Android","redmi note 7 pro",82,"Qualcomm 675",60762.85
+"Android","tecno kl6",72,", mt6768",60754.8
+"Android","infinix x650c",70,"helio a25",60749.916667
+"Android","itel p662l",69,"Unisoc SC9863A",60746.166667
+"Android","sm-a032f",66,"UNISOC SC9863A, m168",60704.383333
+"Android","sm-a127f",76,"exynos850",60575.783333
+"Android","rmx3381",80,"mediatek 810",60560.366667
+"Android","infinix x6870",75,", mt6878",60536
+"Android","sm-g996b",88,"samsung exynos 2100  exynos2100",60512.816667
+"Android","sm-s908u1",92,"qualcomm 8 gen 1",60498.616667
+"Android","redmi note 8",81,"Qualcomm Technologies, Inc TRINKET, qcom",60469.416667
+"Android","23021raa2y",89,,60464.916667
+"iOS","iPhone17,5",-1,,60456.55
+"Android","vivo 1920",85,,60412.283333
+"Android","tecno lh8n",80,"mediatek 6020",60389.433333
+"Android","infinix x6531b",72,,60373.95
+"Android","21121119sg",69,,60316.45
+"Android","rmx3191",74,"helio p65",60297
+"Android","v2431",73,"unisoc t612",60268.216667
+"Android","sm-m156b",81,"mediatek mt6835  mt6835",60266.1
+"Android","gfy-lx2p",73,,60218.766667
+"Android","infinix x6857b",82,"mediatek mt6878  mt6878",60213.95
+"Android","sm-a136u",76,"mediatek 810",60199.966667
+"Android","rmx3710",74,"helio p65",60063.583333
+"Android","23124rn87i",73,", mt6835",60047.783333
+"Android","moto g15",69,"null, mt6768",60015.466667
+"Android","rmx3760",74,"Unisoc T612",59939.3
+"Android","m2006c3lg",69,"MT6762G, mt6762",59920.716667
+"Android","v2348",89,,59917.6
+"Android","sm-a536e",71,,59871.466667
+"Android","infinix x6517",69,"unisoc sc9863a",59772.75
+"Android","tecno lh7n",75,,59758.733333
+"Android","rmx2040",74,"helio p65",59747.2
+"Android","infinix x680b",70,"helio a25",59731.566667
+"Android","v2033",82,"Qualcomm 439",59713.183333
+"Android","rmx3785",75,", mt6835",59700.766667
+"Android","22101320i",85,"qualcomm 778g",59648.933333
+"Android","alt-nx3",83,"qualcomm 4 Gen 2",59625.683333
+"Android","2201116si",89,", qcom",59594.133333
+"Android","rmx3710",75,"mt6768",59588.516667
+"Android","cph2531",75,,59570.466667
+"Android","infinix x6525",72,"Unisoc T606",59507.666667
+"Android","rmx5303",68,,59438.566667
+"Android","25062rn2da",81,"qualcomm 680",59291.633333
+"Android","25028pc03i",76,"spreadtrum ums9230e  serenity",59277.316667
+"Android","tecno kl5",72,,59198.533333
+"iOS","iPhone11,6",-1,,59181.3
+"Android","sm-a105f",72,", exynos7884B",59113.583333
+"Android","rmx3085",75,,59094.566667
+"Android","sm-a127f",80,", exynos850",58938.4
+"Android","i2301",84,"mediatek 7200",58892.25
+"Android","rmx3201",73,,58833.333333
+"Android","v2132",86,"mediatek 1300",58819.133333
+"Android","tecno le6",73,"helio g25",58815.15
+"Android","vivo 1902",75,"helio p35",58770.25
+"Android","infinix x6728b",75,"helio p65",58764.866667
+"Android","rmx2030",82,"Qualcomm Technologies, Inc SDM665, qcom",58678.466667
+"Android","rmx1911",81,"qualcomm technologies, inc sdm665 qcom",58616.266667
+"Android","infinix x6725",65,", ums9230_X6725_go",58566.866667
+"Android","25078ra3el",74,"helio p65",58556.466667
+"Android","cph2015",69,,58552.35
+"Android","2312fpca6g",75,,58448.266667
+"Android","sm-a525f",89,,58378.316667
+"Android","sm-g998u1",89,"qualcomm 888",58352.516667
+"Android","v2336",89,", qcom",58341.883333
+"Android","vivo 2019",73,,58338.9
+"iOS","iPad8,6",88,,58335.55
+"Android","22127pc95i",75,"helio p65",58322.216667
+"Android","sm-a165m",75,,58231.666667
+"Android","moto g75 5g",86,"qti sm6475  qcom",58199.416667
+"Android","sm-a546b",85,"exynos 1380",58174.233333
+"Android","sm-s926u",96,"qualcomm 8 Gen 3",58139.6
+"Android","rmx3951",81,"mediatek mt6835  mt6835",58126.4
+"Android","cph2343",89,,58120.433333
+"Android","2312draabi",80,"mediatek 810",58106.333333
+"Android","v2356",79,"mediatek mt6835  mt6835",58100.25
+"Android","2201117ti",89,"Qualcomm 680",58096.1
+"Android","sm-s721n",95,"exynos 2400",58035.833333
+"Android","rmx3741",75,", mt6877",58025.7
+"Android","cph2293",86,"mediatek 1300",58018.733333
+"Android","z60 plus",72,"Unisoc T616",57961.833333
+"Android","cph2565",89,,57953.75
+"Android","infinix x657b",67,"MT6761V/WE, mt6761",57949.5
+"Android","cph1823",74,"helio p60",57938.716667
+"Android","sm-g781b",89,"Qualcomm Technologies, Inc KONA, qcom",57904.75
+"Android","sm-g990e",84,"Exynos 2100",57830.383333
+"Android","220333ql",82,"qualcomm 680",57824.15
+"Android","sm-a336e",71,,57804.25
+"Android","tecno kf7j",72,"helio g70",57724.333333
+"MAC","Mac14,7",-1,,57713.516667
+"Android","v2312",75,,57694.366667
+"Android","redmi y3",76,"qualcomm 632",57662.583333
+"Android","m2010j19si",82,"Qualcomm Technologies, Inc BENGAL, qcom",57549.85
+"Android","rmx3624",65,,57530.2
+"Android","sm-m236l",81,"qualcomm 750g",57527.583333
+"Android","2406ern9ci",89,,57516.383333
+"Android","i2404",82,"mediatek mt6878  mt6878",57513.766667
+"Android","redmi note 8",84,"qualcomm technologies, inc trinket qcom",57507.3
+"Android","pixel 8",88,"google tensor g3  shiba",57501.183333
+"Android","v2432",73,", mt6835",57454.55
+"Android","2409brn2cg",74,"helio p65",57445.333333
+"Android","itel l6502",66,"unisoc sc9832e l6502",57439.983333
+"Android","v2507",65,,57404.933333
+"Android","22120rn86g",72,,57368.466667
+"Android","sm-a037m",75,"helio p35",57354.633333
+"Android","cph2203",77,"helio p90",57247.266667
+"Android","moto g72",78,"helio g99",57155.566667
+"Android","2201116sg",89,,57139.65
+"Android","v2401",83,"qualcomm 695",57060.366667
+"Android","moto g35 5g",68,,57052.6
+"Android","m2010j19ci",79,"qualcomm 662",56982.166667
+"Android","cph1969",76,"helio p60",56861.383333
+"Android","rmx3269",75,"unisoc t618",56858.95
+"Android","infinix x6525b",75,,56798.083333
+"Android","nic-lx3",75,"helio p65",56781.633333
+"Android","cph2641",94,", qcom",56743.583333
+"Android","cph2725",82,"qcom",56695.266667
+"Android","moto g64 5g",75,", mt6855",56689.9
+"Android","21061119al",74,"helio p65",56663.416667
+"Android","cph2557",78,"mediatek 6020",56609.933333
+"Android","cph2637",75,", mt6835",56609.65
+"Android","i2306",79,"mediatek mt6835  mt6835",56579.85
+"Android","sm-m215f",81,", exynos9611",56565.583333
+"Android","sm-s731b",96,"exynos 2400",56543.966667
+"Android","motorola edge 60 fusion",75,", mt6878",56518.35
+"Android","tecno lj8k",82,"mediatek mt6878  mt6878",56495.3
+"Android","v2237",75,,56489.3
+"Android","itel a667lp",65,", s9863a_A667LP_go",56464.783333
+"Android","sm-e225f",75,"helio g70",56454.25
+"Android","tecno ce7j",73,"helio g70",56388.916667
+"Android","sm-e546b",85,"exynos 1380",56322.383333
+"Android","v2068",76,"qualcomm 439",56283.583333
+"Android","v2419",74,"ums9230_6h10",56277.3
+"Android","iv2201",75,"MT6877V/ZA, mt6877",56226.433333
+"Android","v2521",82,"qualcomm 4 Gen 2",56117.65
+"Android","pixel 8 pro",83,"google tensor g3  husky",56115.566667
+"Android","cph2239",73,"MT6765G, mt6765",56107.616667
+"Android","23076pc4bi",89,", qcom",56066.8
+"Android","v2315",75,,56058.916667
+"Android","v2201",78,"helio g99",56051.416667
+"Android","sm-s916n",95,"qualcomm 8 Gen 2",55952.966667
+"Android","tecno bg7",73,", mt6765",55898.866667
+"Android","tecno kl5",75,"mt6768",55848.6
+"Android","cph2529",83,"qualcomm 695",55764.55
+"Android","sm-a525m",83,"qualcomm 720g",55740.466667
+"Android","infinix x665e",69,"MT6762G, mt6762G",55735.783333
+"Android","v2249",72,", mt6768",55715.166667
+"Android","rmx1941",64,,55685.966667
+"Android","moto e13",65,,55680.233333
+"Android","z30 pro",69,"MT6762V/WD, mt6765",55656.266667
+"Android","vivo 1915",72,,55630.85
+"Android","v2153",82,"qualcomm 680",55607.516667
+"Android","sm-a226br",76,"mediatek 810",55592.533333
+"iOS","iPad7,5",84,,55554.8
+"Android","sm-f766n",92,"samsung s5e9955  s5e9955",55545.7
+"Android","tecno ke7",69,"MT6769V/CB, mt6768",55506.283333
+"Android","cph2365",85,,55492.566667
+"Android","22120rn86i",72,"MT6769V/CZ, mt6768",55470.75
+"Android","infinix x6823",72,"unisoc t616",55450.95
+"Android","alt-lx2",89,,55423.116667
+"Android","rmx3890",89,,55413.516667
+"Android","2407fpn8eg",92,"mediatek 9300",55357.733333
+"Android","moto e14",69,"unisoc t606",55277.15
+"Android","cph2375",89,"Qualcomm 680",55185.416667
+"Android","sm-g991u",89,"qualcomm 888",55153.85
+"Android","v2437",75,,55092.533333
+"Android","v2237",78,"helio g99",55028.866667
+"Android","sm-s936u",94,"qti sm8750  qcom",55010.216667
+"MAC","MacBookAir10,1",85,,55009.816667
+"Android","i2219",89,", qcom",54986.65
+"Android","vivo 1902",73,,54981
+"Android","v2225",75,"MT6833V/ZA, mt6833",54962.35
+"Android","v2502",89,", qcom",54957.3
+"Android","m2006c3mi",75,"helio p35",54954.016667
+"Android","cph2733",81,"mediatek mt6835  mt6835",54888.983333
+"Android","rmx3941",72,,54848.333333
+"Android","sm-a022f",67,,54835.566667
+"Android","2201117pg",75,,54767.883333
+"Android","rmx5111",82,"mediatek mt6835  mt6835",54752.583333
+"Android","cph2121",75,,54751.333333
+"Android","cph2701",78,"helio g99",54749.15
+"Android","redmi 8",82,,54735.866667
+"Android","redmi note 10 lite",82,"qualcomm 720g",54639.266667
+"Android","rmx2180",73,,54606.95
+"Android","moto g13",74,"helio p65",54584.15
+"Android","sm-s921b",76,", s5e9945",54576.916667
+"Android","le2101",93,"Qualcomm 865",54441.216667
+"Android","v2238",69,,54396.65
+"Android","rmx2061",83,"qualcomm 720g",54395.8
+"Android","2201117ti",82,"qualcomm 680",54287.333333
+"Android","2306epn60g",87,"mediatek 8200",54234.483333
+"Android","v2427",89,", qcom",54199
+"Android","redmi 8a",74,"qualcomm 439",54187.016667
+"Android","moto g45 5g",89,,54137.2
+"Android","v2029",82,"Qualcomm Technologies, Inc BENGAL, qcom",54125.866667
+"Android","2201117pg",77,"helio g96",54114.183333
+"Android","v2315",75,", mt6833",54069.016667
+"Android","sm-a515f",81,,54007.266667
+"Android","tecno bg6m",69,"unisoc t606",53984.916667
+"Android","cph2337",80,"mediatek 810",53940.633333
+"Android","v2040",82,"qualcomm 730",53892.083333
+"Android","sm-a325m",69,,53874.283333
+"Android","cph2401",75,"MT6893Z_Z/CZA, mt6893",53860.883333
+"Android","tecno ke5",66,"helio a20",53844.75
+"Android","tecno cl6",78,"helio g99",53801.066667
+"Android","rmx3516",73,"unisoc t612",53767.916667
+"Android","23053rn02i",72,"MT6769H, mt6768",53746.2
+"Android","sm-a226b",76,"mediatek 810",53624.066667
+"Android","infinix x6515",67,"MT6761V/WBB, mt6761",53610.966667
+"Android","tecno cl6",75,", mt6789",53513.8
+"Android","sm-m022g",67,"MT6739WW, mt6739",53505.75
+"Android","infinix x6812",72,"MT6769H, mt6769",53358.15
+"Android","23122pcd1g",85,"qualcomm 7s Gen 2",53327.566667
+"Android","23129rn51x",75,", mt6765",53321.083333
+"Android","v2507",68,,53307.016667
+"Android","cph1903",82,"Qualcomm 450",53257.133333
+"Android","sm-a307g",80,"exynos7904",53201.616667
+"Windows","15U50N-GP50ML",70,"Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",53188.05
+"Android","itel a6610l",65,", s9863a_A6610L_go",53180.116667
+"Android","v2141",89,"Qualcomm 695",53178.033333
+"Android","v2509",79,"mediatek mt6835  mt6835",53171.833333
+"Android","sm-a146m",68,,53142.1
+"Android","tecno ke7",74,"helio p65",53126.933333
+"Android","sm-f946n",95,"qualcomm 8 Gen 2",53115.6
+"Android","cph1969",75,,53093.55
+"iOS","iPad13,4",92,,53052.216667
+"Android","v2418",83,"qualcomm 4 Gen 2",53006.616667
+"Android","rmx5110",82,"mediatek mt6878  mt6878",52934.35
+"Android","sm-f741b",96,"qualcomm 8 Gen 3",52932.866667
+"Android","rmx3943",81,"mediatek mt6835  mt6835",52903.133333
+"Android","m2101k7bl",77,"helio g90t",52871
+"Android","tecno kl8h",79,"mediatek mt6835  mt6835",52842.766667
+"Android","infinix x6836",75,"helio p65",52819.55
+"Android","cph2693",75,,52797.133333
+"Android","a063",86,"qualcomm 778g",52743.733333
+"Android","m1908c3jgg",74,"helio p65",52719.033333
+"Android","redmi note 5 pro",76,"qualcomm 636",52628.433333
+"Android","v2302",78,"mediatek 6020",52557.433333
+"Android","v2109",72,"MT6769V/CT, mt6768",52536.766667
+"Android","sm-a165f",73,"null, mt6789",52531.416667
+"Android","cph2325",73,"MT6765G, mt6765",52524.283333
+"Android","v2201",75,,52477.65
+"Android","cph2223",79,"qualcomm 662",52420.15
+"Android","23053rn02i",74,"helio p65",52417.933333
+"Android","itel s661lp",69,"unisoc sc9863a",52407.833333
+"Android","vivo 1901",69,"MT6762V/WR, mt6762",52306.116667
+"Android","m2004j19c",72,"MT6769T, mt6768",52216.916667
+"Android","tecno km5",75,"mt6768",52172.65
+"Android","infinix x6873",89,"mediatek 8300",52140.6
+"Android","v2134",75,"helio p35",51922.783333
+"Android","cph2363",89,"Qualcomm 680",51918.183333
+"Android","infinix x680b",69,,51880.45
+"Android","2312fpca6g",78,"helio g99",51845.016667
+"Android","sm-f936b",94,"qualcomm 8+ gen 1",51818.983333
+"Android","infinix x6871",79,,51799.6
+"Android","motorola edge 50 fusion",89,,51755.266667
+"Android","moto g35 5g",71,", ums9620_2h10",51700.683333
+"Android","rmx5313",65,", ums9230_dhaka",51687.783333
+"Android","motorola edge 50",86,"qualcomm 7 gen 1",51650.5
+"Android","a301sh",94,"qualcomm 8 Gen 2",51628.183333
+"Android","rmx5003",82,"mediatek mt6878  mt6878",51604.283333
+"Android","tecno bd4a",67,"helio a20",51525.55
+"Android","infinix x669d",72,"unisoc t606",51516
+"Android","poco x2",89,"Qualcomm Technologies, Inc SM7150, qcom",51487.316667
+"Android","sm-s938b",97,", qcom",51477.766667
+"Android","moto g22",73,"null, mt6765",51460.366667
+"MAC","MacBookPro17,1",-1,,51460.166667
+"Android","sm-g990w",89,"qualcomm 888",51449.3
+"Android","cph2365",85,"Qualcomm 662",51397.066667
+"Android","v2022",79,"qualcomm 665",51310.483333
+"Android","motorola edge 60 fusion",75,,51302.05
+"Android","infinix x6531b",69,,51191.15
+"Android","itel a663l",60,,51180.883333
+"Android","infinix x6886",75,,51121.316667
+"Android","cph1901",74,"qualcomm 450",51086.366667
+"Android","sm-a042f",73,"null, mt6765",51047.633333
+"iOS","iPhone7,2",70,,51015.533333
+"Android","rmx3581",71,"unisoc t612",50927.1
+"Android","m2101k6i",89,"Qualcomm Technologies, Inc SM7150, qcom",50923.433333
+"Android","rmx3690",69,"unisoc sc9863a",50898.75
+"Android","cph2341",83,"qualcomm 695",50893.4
+"Android","rmx3511",75,"unisoc t616",50868.016667
+"Android","25062rn2da",89,", qcom",50862.65
+"Android","infinix x6532c",73,"mt6765",50759.866667
+"Android","21061119bi",75,"helio p65",50629.466667
+"Android","itel c671l",68,", ums9230_C671L",50523.366667
+"Android","tecno cm5",75,,50504.516667
+"Android","i2208",81,"qualcomm 695",50495.433333
+"Android","ac2001",89,"Qualcomm Technologies, Inc SDM765G 5G, qcom",50471.9
+"Android","sm-s901b",90,"exynos 2200",50444.45
+"Android","moto g power 5g - 2024",79,"mediatek 930",50417.733333
+"Android","sm-m146b",71,", s5e8535",50366.183333
+"Android","infinix x6816",75,"helio p35",50358.966667
+"Android","m2010j19cg",82,,50336.466667
+"Android","vivo 1933",82,"qualcomm 712",50277.6
+"Android","25078ra3ey",72,,50259.666667
+"Android","sm-f956n",96,"qualcomm 8 Gen 3",50254.616667
+"Android","tecno kd7",70,"helio a25",50229.35
+"Android","v2440",75,,50192.883333
+"Android","23028rncag",73,,50179.75
+"Android","v2032",80,"qualcomm sm4250 qualcomm technologies, inc bengal qcom",50132.833333
+"Android","cph2185",68,"null, mt6765",50125.083333
+"Android","23021raaeg",80,"qualcomm 680",50114.833333
+"Android","cph2371",80,"mediatek 1080",50103.616667
+"Android","vivo 1907_19",72,"MT6768V/CA, mt6768",50101.416667
+"Android","redmi note 8 pro",75,"MT6785V/CC, mt6785",50085.533333
+"Android","a001",75,", mt6878",50060.633333
+"Android","moto g34 5g",89,"null, qcom",50031.55
+"Android","infinix x6525b",75,"helio p35",50004.683333
+"Android","21061119ag",74,"helio p65",49921.083333
+"Android","tecno kg5j",67,"helio a20",49892.6
+"Android","motorola one macro",74,"helio p60",49865.016667
+"Android","sm-m015g",82,"Qualcomm 439",49822.866667
+"Android","rmx2020",69,,49800.333333
+"Android","v2338",89,,49738.733333
+"Android","infinix x6511e",62,,49690.716667
+"Android","rmx3921",85,"qualcomm 7s Gen 2",49663.866667
+"Android","23021raa2y",81,"qualcomm 680",49609.116667
+"Android","z2453",69,"unisoc sc9863a",49578.3
+"Android","sm-a042f",79,"MT6765V/CB, mt6765",49497.233333
+"Android","cph2799",78,"helio g99",49481.983333
+"Android","stk-l21",81,"kirin 710",49459.85
+"Android","cph2381",85,"Qualcomm 695",49456.516667
+"Android","rmx5003",75,", mt6878",49423.183333
+"Android","infinix x670",77,"helio g96",49409.85
+"Android","rmx5116",87,"qti sm7750  qcom",49323.583333
+"Android","cph2059",85,,49310.433333
+"Android","moto g power (2021)",81,"qualcomm technologies, inc bengal qcom",49263.566667
+"iOS","iPad7,11",84,,49231.383333
+"Android","cph2131",83,"qualcomm sm4250 qualcomm technologies, inc sm4250 qcom",49180.416667
+"Android","24090ra29g",75,,49144.533333
+"Android","cph1803",72,"qualcomm 450",49060.85
+"Android","sm-a156u",73,,49038.566667
+"Android","cph1911",76,"helio p60",48998.533333
+"Android","sm-a055f",75,"helio p65",48995.416667
+"Android","v2230",87,"mediatek 8200",48959.633333
+"Android","cph1931",82,,48944.2
+"Android","rmx3930",65,,48898.383333
+"Android","rmx5313",65,,48881.983333
+"Android","21121119sg",75,"MT6769H, mt6768",48877.416667
+"Android","rmx3997",79,"mediatek mt6835  mt6835",48860.4
+"Android","cph1937",85,"Qualcomm Technologies, Inc SDM665, qcom",48835.933333
+"Android","rmx2101",83,"qualcomm technologies, inc sdm460 qcom",48771.166667
+"Android","2310fpca4g",72,,48768.45
+"Android","tecno kj6",75,"null, mt6789",48685.166667
+"Android","m2101k7bny",77,"helio g90t",48664.516667
+"Android","sm-s908e",89,", qcom",48616.933333
+"Android","sm-a366b",89,,48609.433333
+"Android","m2103k19g",77,"mediatek 6020",48598.133333
+"Android","vivo 1915",75,"helio p65",48596.55
+"Android","m2010j19ci",85,"Qualcomm Technologies, Inc BENGAL, qcom",48569.066667
+"Android","rmx3191",69,"MT6768V/CA, mt6768",48562.916667
+"Android","infinix x6816c",65,,48557.1
+"Android","sm-e236b",89,"Qualcomm Technologies, Inc LAGOON, qcom",48551.533333
+"Android","sm-a515f",84,", exynos9611",48548.916667
+"Android","cph2687",89,", qcom",48522.033333
+"Android","ela-lx3",74,"helio p65",48478.083333
+"Android","v2334",75,,48472.3
+"Android","rmx2103",84,"qualcomm technologies, inc sdm662 qcom",48428.666667
+"Android","rmx5051",86,"qti sm7635  qcom",48366.5
+"Android","v2322",89,", qcom",48358.883333
+"Android","sm-s901e",89,", qcom",48334.566667
+"Android","vne-lx3",70,"helio a25",48222.35
+"Android","nic-lx3",72,,48099.9
+"Android","infinix x689",69,,48085.266667
+"Android","sm-s921b",76,,48015.683333
+"Android","cph2605",73,", mt6833",47997.866667
+"Android","rmx3844",83,"qualcomm 6 Gen 1",47992.8
+"Android","moto g15",69,,47968.083333
+"Android","rmx3830",65,", ums9230_hulk",47965.116667
+"Android","moto g84 5g",89,,47942.966667
+"Android","rmx2001",77,"helio g90t",47921.983333
+"Android","rmx3430",69,,47872.916667
+"Android","cph2643",82,"mediatek 1080",47821.316667
+"Android","23076rn8dy",83,"qualcomm 4 Gen 2",47810.366667
+"Android","sm-e146b",84,"exynos 1330",47809.85
+"iOS","iPad14,3",94,,47789.616667
+"Android","sm-a115f",74,"qualcomm 450",47774.966667
+"Android","22071219cg",73,,47687.783333
+"Android","sm-a145f",68,,47675.75
+"Android","sc-53c",84,"exynos 1280",47673.4
+"Android","itel p662l",69,"unisoc sc9863a",47661.616667
+"Android","m2101k6p",89,"Qualcomm Technologies, Inc SM7150, qcom",47631.866667
+"Android","v2206",89,"Qualcomm Technologies, Inc KHAJE, qcom",47607.15
+"Android","v2035",84,"qualcomm sm4250 qualcomm technologies, inc bengal qcom",47571.783333
+"Android","sm-n986n",91,"qualcomm 865",47548.716667
+"Android","infinix x669c",75,"MT6765H, mt6765",47486.933333
+"Android","tecno kj5",69,,47469.216667
+"Android","v2225",75,,47420.6
+"Android","sm-a505f",81,,47312.416667
+"Android","vivo 1807",82,,47272.816667
+"Android","rmx3945",81,"mediatek mt6835  mt6835",47235.833333
+"Android","infinix x680",67,"helio a20",47235.166667
+"Android","sm-m307f",81,", exynos9611",47230.55
+"Android","infinix x6838",75,", mt6835",47202.483333
+"Android","sm-a127f",84,"samsung exynos 850  exynos850",47190.166667
+"Android","v2404",89,", qcom",47119.416667
+"Android","sm-a055f",72,,47096.266667
+"Android","rmx3871",81,"qualcomm 680",47082.766667
+"Android","infinix x6885",75,", mt6789",47045.416667
+"Android","sm-a336m",84,"exynos 1280",47038.833333
+"Android","tecno ch7n",75,,47002.333333
+"Android","vne-lx2",70,"helio a25",46989.65
+"Android","sm-a236e",89,", qcom",46977.983333
+"Android","sm-a546u",85,"exynos 1380",46972.566667
+"Android","crt-nx1",78,"mediatek 6020",46963.816667
+"Android","sm-s711u",92,"qualcomm 8 gen 1",46891.683333
+"Android","infinix x6870",75,,46871.266667
+"Android","cph2481",75,", mt6789",46825.283333
+"Android","rmx3063",68,,46802.1
+"Android","lly-nx1",80,"mediatek 6020",46756.283333
+"Android","infinix x6835b",75,,46705.266667
+"Android","sm-x510",85,"exynos 1380",46696.016667
+"Android","jkm-lx1",80,"kirin 710",46673.65
+"Android","vivo 1811",76,"qualcomm 439",46564.583333
+"Android","sm-n975f",87,"samsung exynos 9825  exynos9825",46537.766667
+"Android","2312frafdi",80,"mediatek 6020",46536.95
+"Android","rmx2170",83,"qualcomm 720g",46522.583333
+"Android","m2006c3mi",73,"MT6765G, mt6765",46516.4
+"Android","moto g(9) power",81,"qualcomm technologies, inc bengal qcom",46509.233333
+"Android","cph2721",89,", qcom",46478.033333
+"Android","cph2385",73,"MT6765G, mt6765",46451.983333
+"Android","jsn-l22",80,"kirin 710",46440.9
+"Android","itel a662lm",65,,46433.7
+"Android","m2102j20sg",89,,46402.083333
+"Android","sm-a025m",74,"qualcomm 450",46381.216667
+"Android","sm-a166p",77,"mt6835",46313.866667
+"Android","cph2131",85,"Qualcomm Technologies, Inc SM4250, qcom",46276.583333
+"Android","sm-a245m",73,,46273.183333
+"Android","sm-a075f",78,"helio g99",46256.8
+"Android","cph2699",89,,46248.183333
+"Android","sm-a305g",80,"exynos7885",46237.05
+"Android","xig03",82,"qualcomm 4 Gen 2",46220.583333
+"Android","cph2729",89,", qcom",46200.55
+"Android","tecno be8",67,"helio a20",46196.983333
+"Android","rmx3938",72,"ums9230_latte",46157.35
+"Android","v2352",75,"mt6768",46090.533333
+"Android","23106rn0da",69,", mt6768",46009.483333
+"Android","pixel 6",83,"google tensor  oriole",45965.2
+"Android","cph2421",69,,45905.8
+"Android","sm-g977n",87,"samsung exynos 9820  exynos9820",45899.733333
+"Android","23129ra5fl",89,"null, qcom",45882.2
+"Android","sm-a125f",79,"MT6765V/CB, mt6765",45842.766667
+"iOS","iPhone11,2",-1,,45788.45
+"Android","rmx3630",75,,45740.766667
+"Android","sm-a336e",71,", s5e8825",45661.666667
+"Android","sm-g988b",87,"samsung exynos 990  exynos990",45650.233333
+"Android","sm-m215f",84,", exynos9611",45649.783333
+"Android","sm-a035f",72,"Unisoc T606",45634.516667
+"Android","25028rn03a",65,"null, serenity",45560.666667
+"Android","motorola edge 30 fusion",91,"qualcomm 888",45533.7
+"Android","infinix x6725b",72,"ums9230_X6725B",45493
+"Android","sm-a307fn",77,,45469.55
